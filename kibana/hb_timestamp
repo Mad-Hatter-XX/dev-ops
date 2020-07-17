@@ -1,0 +1,69 @@
+{
+  "_doc": {
+    "_routing": {
+      "required": false
+    },
+    "numeric_detection": false,
+    "dynamic_date_formats": [
+      "strict_date_optional_time",
+      "yyyy/MM/dd HH:mm:ss Z||yyyy/MM/dd Z",
+      "yyyy-DDD",
+      "ordinal_date",
+      "ordinal_date_time_no_millis",
+      "yyyy-DDD'T'HH:mm",
+      "yyyy-DDD'T'HH:mm:ssZZ"
+    ],
+    "_meta": {},
+    "dynamic": true,
+    "_source": {
+      "excludes": [],
+      "includes": [],
+      "enabled": true
+    },
+    "date_detection": true,
+    "properties": {
+      "AE": {
+        "type": "byte"
+      },
+      "Hour": {
+        "type": "long"
+      },
+      "AL": {
+        "type": "long"
+      },
+      "SYM_H": {
+        "type": "long"
+      },
+      "n": {
+        "type": "float"
+      },
+      "AU": {
+        "type": "long"
+      },
+      "Minute": {
+        "type": "long"
+      },
+      "Year": {
+        "type": "long"
+      },
+      "Bx": {
+        "type": "float"
+      },
+      "V": {
+        "type": "long"
+      },
+      "By": {
+        "type": "float"
+      },
+      "Bz": {
+        "type": "float"
+      },
+      "Day": {
+        "type": "long"
+      },
+      "timestamp": {
+        "type": "date"
+      }
+    }
+  }
+}
