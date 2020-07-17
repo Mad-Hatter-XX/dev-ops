@@ -1,0 +1,57 @@
+PUT hb23_index
+{
+"mappings": {
+    "properties": {
+      "AE": {
+        "type": "long"
+      },
+      "AL": {
+        "type": "long"
+      },
+      "AU": {
+        "type": "long"
+      },
+      "Bx": {
+        "type": "float"
+      },
+      "By": {
+        "type": "float"
+      },
+      "Bz": {
+        "type": "float"
+      },
+      "Day": {
+        "type": "long"
+      },
+      "Hour": {
+        "type": "long"
+      },
+      "Minute": {
+        "type": "long"
+      },
+      "SYM_H": {
+        "type": "long"
+      },
+      "V": {
+        "type": "float"
+      },
+      "Year": {
+        "type": "long"
+      },
+      "n": {
+        "type": "float"
+      },
+      "timestamp": {
+        "type": "date",
+        "format": "yyyy-DDD'T'HH:mm:ssZZ||yyyy-DDD||yyyy-DDD HH:mm||yyyy-DDD'T'HH:mm||ordinal_date||ordinal_date_time_no_millis"
+      },
+      "timestamp2": {
+        "type": "date",
+        "format": "yyyy-DDD'T'HH:mm:ssZZ"
+      }
+    }
+  }
+}
+
+
+GET /hb23_index/_mapping
