@@ -1,0 +1,3272 @@
+[
+	{
+		"Name": "SON",
+		"text": "Geo-point as an object",
+		"Latitude": 25.12,
+		"Longitude": "66.44}"
+	},
+	{
+		"Name": "AMU",
+		"text": "Geo-point as an object",
+		"Latitude": 61.2,
+		"Longitude": -149.9
+	},
+	{
+		"Name": "YKC",
+		"text": "Geo-point as an object",
+		"Latitude": 62.48,
+		"Longitude": -114.48
+	},
+	{
+		"Name": "CBB",
+		"text": "Geo-point as an object",
+		"Latitude": 69.1,
+		"Longitude": -105
+	},
+	{
+		"Name": "RES",
+		"text": "Geo-point as an object",
+		"Latitude": 74.69,
+		"Longitude": -94.89
+	},
+	{
+		"Name": "BLC",
+		"text": "Geo-point as an object",
+		"Latitude": 64.33,
+		"Longitude": -96.03
+	},
+	{
+		"Name": "MEA",
+		"text": "Geo-point as an object",
+		"Latitude": 54.62,
+		"Longitude": -113.35
+	},
+	{
+		"Name": "SIT",
+		"text": "Geo-point as an object",
+		"Latitude": 57.07,
+		"Longitude": -135.33
+	},
+	{
+		"Name": "PBQ",
+		"text": "Geo-point as an object",
+		"Latitude": 55.28,
+		"Longitude": -77.74
+	},
+	{
+		"Name": "MEK",
+		"text": "Geo-point as an object",
+		"Latitude": 62.77,
+		"Longitude": 30.97
+	},
+	{
+		"Name": "STJ",
+		"text": "Geo-point as an object",
+		"Latitude": 47.6,
+		"Longitude": -52.68
+	},
+	{
+		"Name": "ALE",
+		"text": "Geo-point as an object",
+		"Latitude": 82.5,
+		"Longitude": -62.5
+	},
+	{
+		"Name": "LRV",
+		"text": "Geo-point as an object",
+		"Latitude": 64.18,
+		"Longitude": -21.7
+	},
+	{
+		"Name": "BOU",
+		"text": "Geo-point as an object",
+		"Latitude": 40.13,
+		"Longitude": -105.23
+	},
+	{
+		"Name": "FRN",
+		"text": "Geo-point as an object",
+		"Latitude": 37.1,
+		"Longitude": -119.7
+	},
+	{
+		"Name": "VIC",
+		"text": "Geo-point as an object",
+		"Latitude": 48.52,
+		"Longitude": -123.42
+	},
+	{
+		"Name": "NEW",
+		"text": "Geo-point as an object",
+		"Latitude": 48.27,
+		"Longitude": -117.12
+	},
+	{
+		"Name": "LOV",
+		"text": "Geo-point as an object",
+		"Latitude": 59.35,
+		"Longitude": 17.83
+	},
+	{
+		"Name": "LER",
+		"text": "Geo-point as an object",
+		"Latitude": 60.13,
+		"Longitude": -1.18
+	},
+	{
+		"Name": "VAL",
+		"text": "Geo-point as an object",
+		"Latitude": 51.93,
+		"Longitude": -10.25
+	},
+	{
+		"Name": "HAD",
+		"text": "Geo-point as an object",
+		"Latitude": 50.98,
+		"Longitude": -4.48
+	},
+	{
+		"Name": "ESK",
+		"text": "Geo-point as an object",
+		"Latitude": 55.32,
+		"Longitude": -3.2
+	},
+	{
+		"Name": "MAB",
+		"text": "Geo-point as an object",
+		"Latitude": 50.3,
+		"Longitude": 5.68
+	},
+	{
+		"Name": "DOU",
+		"text": "Geo-point as an object",
+		"Latitude": 50.1,
+		"Longitude": 4.6
+	},
+	{
+		"Name": "BFE",
+		"text": "Geo-point as an object",
+		"Latitude": 55.62,
+		"Longitude": 11.67
+	},
+	{
+		"Name": "CLF",
+		"text": "Geo-point as an object",
+		"Latitude": 48.02,
+		"Longitude": 2.27
+	},
+	{
+		"Name": "OTT",
+		"text": "Geo-point as an object",
+		"Latitude": 45.4,
+		"Longitude": -75.55
+	},
+	{
+		"Name": "WNG",
+		"text": "Geo-point as an object",
+		"Latitude": 53.75,
+		"Longitude": 9.07
+	},
+	{
+		"Name": "VRE",
+		"text": "Geo-point as an object",
+		"Latitude": -17.28,
+		"Longitude": -67.62
+	},
+	{
+		"Name": "SHE",
+		"text": "Geo-point as an object",
+		"Latitude": -15.95,
+		"Longitude": -5.73
+	},
+	{
+		"Name": "SMA",
+		"text": "Geo-point as an object",
+		"Latitude": 36.99,
+		"Longitude": -25.13
+	},
+	{
+		"Name": "PNL",
+		"text": "Geo-point as an object",
+		"Latitude": 16.68,
+		"Longitude": -56.18
+	},
+	{
+		"Name": "THY",
+		"text": "Geo-point as an object",
+		"Latitude": 46.9,
+		"Longitude": 17.54
+	},
+	{
+		"Name": "BEL",
+		"text": "Geo-point as an object",
+		"Latitude": 51.83,
+		"Longitude": 20.8
+	},
+	{
+		"Name": "FUR",
+		"text": "Geo-point as an object",
+		"Latitude": 48.17,
+		"Longitude": 11.28
+	},
+	{
+		"Name": "NGK",
+		"text": "Geo-point as an object",
+		"Latitude": 52.07,
+		"Longitude": 12.68
+	},
+	{
+		"Name": "BDV",
+		"text": "Geo-point as an object",
+		"Latitude": 49.07,
+		"Longitude": 14.02
+	},
+	{
+		"Name": "FRD",
+		"text": "Geo-point as an object",
+		"Latitude": 38.2,
+		"Longitude": -77.37
+	},
+	{
+		"Name": "CRP",
+		"text": "Geo-point as an object",
+		"Latitude": 10.44,
+		"Longitude": -84.91
+	},
+	{
+		"Name": "HYB",
+		"text": "Geo-point as an object",
+		"Latitude": 17.4,
+		"Longitude": 78.6
+	},
+	{
+		"Name": "IPM",
+		"text": "Geo-point as an object",
+		"Latitude": -27.2,
+		"Longitude": -109.42
+	},
+	{
+		"Name": "KMH",
+		"text": "Geo-point as an object",
+		"Latitude": -26.54,
+		"Longitude": 18.11
+	},
+	{
+		"Name": "NMP",
+		"text": "Geo-point as an object",
+		"Latitude": -15.09,
+		"Longitude": 39.25
+	},
+	{
+		"Name": "DED",
+		"text": "Geo-point as an object",
+		"Latitude": 70.36,
+		"Longitude": -148.79
+	},
+	{
+		"Name": "KEP",
+		"text": "Geo-point as an object",
+		"Latitude": -54.28,
+		"Longitude": -36.49
+	},
+	{
+		"Name": "CDP",
+		"text": "Geo-point as an object",
+		"Latitude": 31,
+		"Longitude": -103.7
+	},
+	{
+		"Name": "DMC",
+		"text": "Geo-point as an object",
+		"Latitude": -75.25,
+		"Longitude": -124.17
+	},
+	{
+		"Name": "LON",
+		"text": "Geo-point as an object",
+		"Latitude": 45.41,
+		"Longitude": 16.66
+	},
+	{
+		"Name": "SPG",
+		"text": "Geo-point as an object",
+		"Latitude": 60.54,
+		"Longitude": 29.72
+	},
+	{
+		"Name": "TAB",
+		"text": "Geo-point as an object",
+		"Latitude": 76.54,
+		"Longitude": -68.82
+	},
+	{
+		"Name": "ROE",
+		"text": "Geo-point as an object",
+		"Latitude": 55.17,
+		"Longitude": 8.55
+	},
+	{
+		"Name": "THL",
+		"text": "Geo-point as an object",
+		"Latitude": 77.47,
+		"Longitude": -69.23
+	},
+	{
+		"Name": "SVS",
+		"text": "Geo-point as an object",
+		"Latitude": 76.02,
+		"Longitude": -65.1
+	},
+	{
+		"Name": "KUV",
+		"text": "Geo-point as an object",
+		"Latitude": 74.57,
+		"Longitude": -57.18
+	},
+	{
+		"Name": "UPN",
+		"text": "Geo-point as an object",
+		"Latitude": 72.78,
+		"Longitude": -56.15
+	},
+	{
+		"Name": "UMQ",
+		"text": "Geo-point as an object",
+		"Latitude": 70.68,
+		"Longitude": -52.13
+	},
+	{
+		"Name": "GDH",
+		"text": "Geo-point as an object",
+		"Latitude": 69.25,
+		"Longitude": -53.53
+	},
+	{
+		"Name": "ATU",
+		"text": "Geo-point as an object",
+		"Latitude": 67.93,
+		"Longitude": -53.57
+	},
+	{
+		"Name": "STF",
+		"text": "Geo-point as an object",
+		"Latitude": 67.02,
+		"Longitude": -50.72
+	},
+	{
+		"Name": "SKT",
+		"text": "Geo-point as an object",
+		"Latitude": 65.42,
+		"Longitude": -52.9
+	},
+	{
+		"Name": "GHB",
+		"text": "Geo-point as an object",
+		"Latitude": 64.17,
+		"Longitude": -51.73
+	},
+	{
+		"Name": "FHB",
+		"text": "Geo-point as an object",
+		"Latitude": 62,
+		"Longitude": -49.68
+	},
+	{
+		"Name": "NAQ",
+		"text": "Geo-point as an object",
+		"Latitude": 61.16,
+		"Longitude": -45.44
+	},
+	{
+		"Name": "NRD",
+		"text": "Geo-point as an object",
+		"Latitude": 81.6,
+		"Longitude": -16.67
+	},
+	{
+		"Name": "DMH",
+		"text": "Geo-point as an object",
+		"Latitude": 76.77,
+		"Longitude": -18.63
+	},
+	{
+		"Name": "DNB",
+		"text": "Geo-point as an object",
+		"Latitude": 74.3,
+		"Longitude": -20.22
+	},
+	{
+		"Name": "SCO",
+		"text": "Geo-point as an object",
+		"Latitude": 70.48,
+		"Longitude": -21.97
+	},
+	{
+		"Name": "AMK",
+		"text": "Geo-point as an object",
+		"Latitude": 65.6,
+		"Longitude": -37.63
+	},
+	{
+		"Name": "MCN",
+		"text": "Geo-point as an object",
+		"Latitude": 73.93,
+		"Longitude": -37.62
+	},
+	{
+		"Name": "MCE",
+		"text": "Geo-point as an object",
+		"Latitude": 72.4,
+		"Longitude": -33.9
+	},
+	{
+		"Name": "MCW",
+		"text": "Geo-point as an object",
+		"Latitude": 72,
+		"Longitude": -42.59
+	},
+	{
+		"Name": "MCG",
+		"text": "Geo-point as an object",
+		"Latitude": 72.6,
+		"Longitude": -38.35
+	},
+	{
+		"Name": "MCR",
+		"text": "Geo-point as an object",
+		"Latitude": 66.48,
+		"Longitude": -46.29
+	},
+	{
+		"Name": "TDC",
+		"text": "Geo-point as an object",
+		"Latitude": -37.1,
+		"Longitude": -12.31
+	},
+	{
+		"Name": "SUM",
+		"text": "Geo-point as an object",
+		"Latitude": 72.3,
+		"Longitude": -38.3
+	},
+	{
+		"Name": "HOV",
+		"text": "Geo-point as an object",
+		"Latitude": 61.5,
+		"Longitude": -6.8
+	},
+	{
+		"Name": "GIM",
+		"text": "Geo-point as an object",
+		"Latitude": 56.38,
+		"Longitude": -94.64
+	},
+	{
+		"Name": "TAL",
+		"text": "Geo-point as an object",
+		"Latitude": 69.54,
+		"Longitude": -93.55
+	},
+	{
+		"Name": "CNL",
+		"text": "Geo-point as an object",
+		"Latitude": 65.75,
+		"Longitude": -111.25
+	},
+	{
+		"Name": "DAW",
+		"text": "Geo-point as an object",
+		"Latitude": 64.05,
+		"Longitude": -139.11
+	},
+	{
+		"Name": "EKP",
+		"text": "Geo-point as an object",
+		"Latitude": 61.11,
+		"Longitude": -94.05
+	},
+	{
+		"Name": "FCC",
+		"text": "Geo-point as an object",
+		"Latitude": 58.76,
+		"Longitude": -94.08
+	},
+	{
+		"Name": "FMC",
+		"text": "Geo-point as an object",
+		"Latitude": 56.66,
+		"Longitude": -111.21
+	},
+	{
+		"Name": "FSP",
+		"text": "Geo-point as an object",
+		"Latitude": 61.76,
+		"Longitude": -121.23
+	},
+	{
+		"Name": "SMI",
+		"text": "Geo-point as an object",
+		"Latitude": 60.02,
+		"Longitude": -111.95
+	},
+	{
+		"Name": "ISL",
+		"text": "Geo-point as an object",
+		"Latitude": 53.86,
+		"Longitude": -94.66
+	},
+	{
+		"Name": "PIN",
+		"text": "Geo-point as an object",
+		"Latitude": 50.2,
+		"Longitude": -96.04
+	},
+	{
+		"Name": "RAL",
+		"text": "Geo-point as an object",
+		"Latitude": 58.22,
+		"Longitude": -103.68
+	},
+	{
+		"Name": "RAN",
+		"text": "Geo-point as an object",
+		"Latitude": 62.82,
+		"Longitude": -92.11
+	},
+	{
+		"Name": "NOR",
+		"text": "Geo-point as an object",
+		"Latitude": 71.09,
+		"Longitude": 25.79
+	},
+	{
+		"Name": "NAL",
+		"text": "Geo-point as an object",
+		"Latitude": 78.92,
+		"Longitude": 11.95
+	},
+	{
+		"Name": "LYR",
+		"text": "Geo-point as an object",
+		"Latitude": 78.2,
+		"Longitude": 15.83
+	},
+	{
+		"Name": "JAN",
+		"text": "Geo-point as an object",
+		"Latitude": 70.9,
+		"Longitude": -8.7
+	},
+	{
+		"Name": "HOP",
+		"text": "Geo-point as an object",
+		"Latitude": 76.51,
+		"Longitude": 25.01
+	},
+	{
+		"Name": "BJN",
+		"text": "Geo-point as an object",
+		"Latitude": 74.5,
+		"Longitude": 19.2
+	},
+	{
+		"Name": "SOR",
+		"text": "Geo-point as an object",
+		"Latitude": 70.54,
+		"Longitude": 22.22
+	},
+	{
+		"Name": "TRO",
+		"text": "Geo-point as an object",
+		"Latitude": 69.66,
+		"Longitude": 18.94
+	},
+	{
+		"Name": "AND",
+		"text": "Geo-point as an object",
+		"Latitude": 69.3,
+		"Longitude": 16.03
+	},
+	{
+		"Name": "JCK",
+		"text": "Geo-point as an object",
+		"Latitude": 66.4,
+		"Longitude": 16.98
+	},
+	{
+		"Name": "DON",
+		"text": "Geo-point as an object",
+		"Latitude": 66.11,
+		"Longitude": 12.5
+	},
+	{
+		"Name": "RVK",
+		"text": "Geo-point as an object",
+		"Latitude": 64.94,
+		"Longitude": 10.99
+	},
+	{
+		"Name": "DOB",
+		"text": "Geo-point as an object",
+		"Latitude": 62.07,
+		"Longitude": 9.11
+	},
+	{
+		"Name": "SOL",
+		"text": "Geo-point as an object",
+		"Latitude": 61.08,
+		"Longitude": 4.84
+	},
+	{
+		"Name": "KAR",
+		"text": "Geo-point as an object",
+		"Latitude": 59.21,
+		"Longitude": 5.24
+	},
+	{
+		"Name": "HRN",
+		"text": "Geo-point as an object",
+		"Latitude": 77,
+		"Longitude": 15.6
+	},
+	{
+		"Name": "ALT",
+		"text": "Geo-point as an object",
+		"Latitude": 69.86,
+		"Longitude": 22.96
+	},
+	{
+		"Name": "KEV",
+		"text": "Geo-point as an object",
+		"Latitude": 69.76,
+		"Longitude": 27.01
+	},
+	{
+		"Name": "MAS",
+		"text": "Geo-point as an object",
+		"Latitude": 69.46,
+		"Longitude": 23.7
+	},
+	{
+		"Name": "KIL",
+		"text": "Geo-point as an object",
+		"Latitude": 69.02,
+		"Longitude": 20.79
+	},
+	{
+		"Name": "KAU",
+		"text": "Geo-point as an object",
+		"Latitude": 69.02,
+		"Longitude": 23.05
+	},
+	{
+		"Name": "IVA",
+		"text": "Geo-point as an object",
+		"Latitude": 68.56,
+		"Longitude": 27.29
+	},
+	{
+		"Name": "ABK",
+		"text": "Geo-point as an object",
+		"Latitude": 68.35,
+		"Longitude": 18.82
+	},
+	{
+		"Name": "LEK",
+		"text": "Geo-point as an object",
+		"Latitude": 68.13,
+		"Longitude": 13.54
+	},
+	{
+		"Name": "MUO",
+		"text": "Geo-point as an object",
+		"Latitude": 68.02,
+		"Longitude": 23.53
+	},
+	{
+		"Name": "LOZ",
+		"text": "Geo-point as an object",
+		"Latitude": 67.97,
+		"Longitude": 35.08
+	},
+	{
+		"Name": "KIR",
+		"text": "Geo-point as an object",
+		"Latitude": 67.84,
+		"Longitude": 20.42
+	},
+	{
+		"Name": "SOD",
+		"text": "Geo-point as an object",
+		"Latitude": 67.37,
+		"Longitude": 26.63
+	},
+	{
+		"Name": "PEL",
+		"text": "Geo-point as an object",
+		"Latitude": 66.9,
+		"Longitude": 24.08
+	},
+	{
+		"Name": "LYC",
+		"text": "Geo-point as an object",
+		"Latitude": 64.61,
+		"Longitude": 18.75
+	},
+	{
+		"Name": "OUJ",
+		"text": "Geo-point as an object",
+		"Latitude": 64.52,
+		"Longitude": 27.23
+	},
+	{
+		"Name": "HAN",
+		"text": "Geo-point as an object",
+		"Latitude": 62.3,
+		"Longitude": 26.65
+	},
+	{
+		"Name": "NUR",
+		"text": "Geo-point as an object",
+		"Latitude": 60.5,
+		"Longitude": 24.65
+	},
+	{
+		"Name": "UPS",
+		"text": "Geo-point as an object",
+		"Latitude": 59.9,
+		"Longitude": 17.35
+	},
+	{
+		"Name": "TAR",
+		"text": "Geo-point as an object",
+		"Latitude": 58.26,
+		"Longitude": 26.46
+	},
+	{
+		"Name": "BRW",
+		"text": "Geo-point as an object",
+		"Latitude": 71.3,
+		"Longitude": -156.75
+	},
+	{
+		"Name": "KAV",
+		"text": "Geo-point as an object",
+		"Latitude": 70.07,
+		"Longitude": -143.37
+	},
+	{
+		"Name": "KOT",
+		"text": "Geo-point as an object",
+		"Latitude": 66.88,
+		"Longitude": -162.6
+	},
+	{
+		"Name": "ARC",
+		"text": "Geo-point as an object",
+		"Latitude": 68.13,
+		"Longitude": -145.57
+	},
+	{
+		"Name": "INK",
+		"text": "Geo-point as an object",
+		"Latitude": 68.25,
+		"Longitude": -133.3
+	},
+	{
+		"Name": "BET",
+		"text": "Geo-point as an object",
+		"Latitude": 66.9,
+		"Longitude": -151.68
+	},
+	{
+		"Name": "FYU",
+		"text": "Geo-point as an object",
+		"Latitude": 66.57,
+		"Longitude": -145.3
+	},
+	{
+		"Name": "EAG",
+		"text": "Geo-point as an object",
+		"Latitude": 64.78,
+		"Longitude": -141.2
+	},
+	{
+		"Name": "CMO",
+		"text": "Geo-point as an object",
+		"Latitude": 64.87,
+		"Longitude": -147.86
+	},
+	{
+		"Name": "CGO",
+		"text": "Geo-point as an object",
+		"Latitude": 64.87,
+		"Longitude": -147.86
+	},
+	{
+		"Name": "GAK",
+		"text": "Geo-point as an object",
+		"Latitude": 62.3,
+		"Longitude": -145.3
+	},
+	{
+		"Name": "TLK",
+		"text": "Geo-point as an object",
+		"Latitude": 63.3,
+		"Longitude": -150.1
+	},
+	{
+		"Name": "CPY",
+		"text": "Geo-point as an object",
+		"Latitude": 70.2,
+		"Longitude": -124.7
+	},
+	{
+		"Name": "PKR",
+		"text": "Geo-point as an object",
+		"Latitude": 65.08,
+		"Longitude": -147.26
+	},
+	{
+		"Name": "DIK",
+		"text": "Geo-point as an object",
+		"Latitude": 73.55,
+		"Longitude": 80.57
+	},
+	{
+		"Name": "CCS",
+		"text": "Geo-point as an object",
+		"Latitude": 77.72,
+		"Longitude": 104.28
+	},
+	{
+		"Name": "TIK",
+		"text": "Geo-point as an object",
+		"Latitude": 71.58,
+		"Longitude": 129
+	},
+	{
+		"Name": "CWE",
+		"text": "Geo-point as an object",
+		"Latitude": 66.17,
+		"Longitude": -169.83
+	},
+	{
+		"Name": "ARK",
+		"text": "Geo-point as an object",
+		"Latitude": 64.6,
+		"Longitude": 40.5
+	},
+	{
+		"Name": "AAE",
+		"text": "Geo-point as an object",
+		"Latitude": 9.03,
+		"Longitude": 38.77
+	},
+	{
+		"Name": "ABG",
+		"text": "Geo-point as an object",
+		"Latitude": 18.62,
+		"Longitude": 72.87
+	},
+	{
+		"Name": "AMS",
+		"text": "Geo-point as an object",
+		"Latitude": -37.8,
+		"Longitude": 77.57
+	},
+	{
+		"Name": "API",
+		"text": "Geo-point as an object",
+		"Latitude": -13.8,
+		"Longitude": -171.78
+	},
+	{
+		"Name": "ASP",
+		"text": "Geo-point as an object",
+		"Latitude": -23.77,
+		"Longitude": 133.88
+	},
+	{
+		"Name": "BMT",
+		"text": "Geo-point as an object",
+		"Latitude": 40.3,
+		"Longitude": 116.2
+	},
+	{
+		"Name": "BNG",
+		"text": "Geo-point as an object",
+		"Latitude": 4.33,
+		"Longitude": 18.57
+	},
+	{
+		"Name": "BSL",
+		"text": "Geo-point as an object",
+		"Latitude": 30.35,
+		"Longitude": -89.63
+	},
+	{
+		"Name": "CNB",
+		"text": "Geo-point as an object",
+		"Latitude": -34.1,
+		"Longitude": 150.7
+	},
+	{
+		"Name": "CAN",
+		"text": "Geo-point as an object",
+		"Latitude": -35.3,
+		"Longitude": 149.36
+	},
+	{
+		"Name": "CZT",
+		"text": "Geo-point as an object",
+		"Latitude": -46.43,
+		"Longitude": 51.87
+	},
+	{
+		"Name": "DLR",
+		"text": "Geo-point as an object",
+		"Latitude": 29.49,
+		"Longitude": -100.92
+	},
+	{
+		"Name": "DRV",
+		"text": "Geo-point as an object",
+		"Latitude": -66.67,
+		"Longitude": 140.01
+	},
+	{
+		"Name": "EYR",
+		"text": "Geo-point as an object",
+		"Latitude": -43.4,
+		"Longitude": 172.4
+	},
+	{
+		"Name": "GNA",
+		"text": "Geo-point as an object",
+		"Latitude": -31.8,
+		"Longitude": 116
+	},
+	{
+		"Name": "GUA",
+		"text": "Geo-point as an object",
+		"Latitude": 13.59,
+		"Longitude": 144.87
+	},
+	{
+		"Name": "GUI",
+		"text": "Geo-point as an object",
+		"Latitude": 28.32,
+		"Longitude": -16.43
+	},
+	{
+		"Name": "HBK",
+		"text": "Geo-point as an object",
+		"Latitude": -25.88,
+		"Longitude": 27.71
+	},
+	{
+		"Name": "HER",
+		"text": "Geo-point as an object",
+		"Latitude": -34.43,
+		"Longitude": 19.23
+	},
+	{
+		"Name": "HLP",
+		"text": "Geo-point as an object",
+		"Latitude": 54.61,
+		"Longitude": 18.82
+	},
+	{
+		"Name": "HON",
+		"text": "Geo-point as an object",
+		"Latitude": 21.32,
+		"Longitude": -158
+	},
+	{
+		"Name": "HRB",
+		"text": "Geo-point as an object",
+		"Latitude": 47.86,
+		"Longitude": 18.19
+	},
+	{
+		"Name": "IQA",
+		"text": "Geo-point as an object",
+		"Latitude": 63.75,
+		"Longitude": -68.52
+	},
+	{
+		"Name": "IRT",
+		"text": "Geo-point as an object",
+		"Latitude": 52.17,
+		"Longitude": 104.45
+	},
+	{
+		"Name": "ISK",
+		"text": "Geo-point as an object",
+		"Latitude": 41.07,
+		"Longitude": 29.06
+	},
+	{
+		"Name": "KAK",
+		"text": "Geo-point as an object",
+		"Latitude": 36.23,
+		"Longitude": 140.18
+	},
+	{
+		"Name": "KOU",
+		"text": "Geo-point as an object",
+		"Latitude": 5.21,
+		"Longitude": -52.73
+	},
+	{
+		"Name": "LNP",
+		"text": "Geo-point as an object",
+		"Latitude": 25,
+		"Longitude": 121.17
+	},
+	{
+		"Name": "MBO",
+		"text": "Geo-point as an object",
+		"Latitude": 14.38,
+		"Longitude": -16.97
+	},
+	{
+		"Name": "MMB",
+		"text": "Geo-point as an object",
+		"Latitude": 43.91,
+		"Longitude": 144.19
+	},
+	{
+		"Name": "NCK",
+		"text": "Geo-point as an object",
+		"Latitude": 47.63,
+		"Longitude": 16.72
+	},
+	{
+		"Name": "MZH",
+		"text": "Geo-point as an object",
+		"Latitude": 49.6,
+		"Longitude": 117.4
+	},
+	{
+		"Name": "PAF",
+		"text": "Geo-point as an object",
+		"Latitude": -49.35,
+		"Longitude": 70.26
+	},
+	{
+		"Name": "PHU",
+		"text": "Geo-point as an object",
+		"Latitude": 21.03,
+		"Longitude": 105.95
+	},
+	{
+		"Name": "PPT",
+		"text": "Geo-point as an object",
+		"Latitude": -17.57,
+		"Longitude": -149.58
+	},
+	{
+		"Name": "SBA",
+		"text": "Geo-point as an object",
+		"Latitude": -77.85,
+		"Longitude": 166.78
+	},
+	{
+		"Name": "SJG",
+		"text": "Geo-point as an object",
+		"Latitude": 18.11,
+		"Longitude": -66.15
+	},
+	{
+		"Name": "SPT",
+		"text": "Geo-point as an object",
+		"Latitude": 39.55,
+		"Longitude": -4.35
+	},
+	{
+		"Name": "SUA",
+		"text": "Geo-point as an object",
+		"Latitude": 45.32,
+		"Longitude": 26.25
+	},
+	{
+		"Name": "TAM",
+		"text": "Geo-point as an object",
+		"Latitude": 22.79,
+		"Longitude": 5.53
+	},
+	{
+		"Name": "TAN",
+		"text": "Geo-point as an object",
+		"Latitude": -18.92,
+		"Longitude": 47.55
+	},
+	{
+		"Name": "TUC",
+		"text": "Geo-point as an object",
+		"Latitude": 32.17,
+		"Longitude": -110.73
+	},
+	{
+		"Name": "VSS",
+		"text": "Geo-point as an object",
+		"Latitude": -22.4,
+		"Longitude": -43.65
+	},
+	{
+		"Name": "KIV",
+		"text": "Geo-point as an object",
+		"Latitude": 50.72,
+		"Longitude": 30.3
+	},
+	{
+		"Name": "LNN",
+		"text": "Geo-point as an object",
+		"Latitude": 59.95,
+		"Longitude": 30.7
+	},
+	{
+		"Name": "NKK",
+		"text": "Geo-point as an object",
+		"Latitude": 45.77,
+		"Longitude": 62.12
+	},
+	{
+		"Name": "MNK",
+		"text": "Geo-point as an object",
+		"Latitude": 54.1,
+		"Longitude": 26.52
+	},
+	{
+		"Name": "ODE",
+		"text": "Geo-point as an object",
+		"Latitude": 46.22,
+		"Longitude": 30.88
+	},
+	{
+		"Name": "TUL",
+		"text": "Geo-point as an object",
+		"Latitude": 35.92,
+		"Longitude": -95.78
+	},
+	{
+		"Name": "ASH",
+		"text": "Geo-point as an object",
+		"Latitude": 37.95,
+		"Longitude": 58.1
+	},
+	{
+		"Name": "TOL",
+		"text": "Geo-point as an object",
+		"Latitude": 39.88,
+		"Longitude": -4.05
+	},
+	{
+		"Name": "NVS",
+		"text": "Geo-point as an object",
+		"Latitude": 55.03,
+		"Longitude": 82.9
+	},
+	{
+		"Name": "KGD",
+		"text": "Geo-point as an object",
+		"Latitude": 49.82,
+		"Longitude": 73.08
+	},
+	{
+		"Name": "AAA",
+		"text": "Geo-point as an object",
+		"Latitude": 43.25,
+		"Longitude": 76.92
+	},
+	{
+		"Name": "TKT",
+		"text": "Geo-point as an object",
+		"Latitude": 41.33,
+		"Longitude": 69.62
+	},
+	{
+		"Name": "LVV",
+		"text": "Geo-point as an object",
+		"Latitude": 49.9,
+		"Longitude": 23.75
+	},
+	{
+		"Name": "RSV",
+		"text": "Geo-point as an object",
+		"Latitude": 55.85,
+		"Longitude": 12.45
+	},
+	{
+		"Name": "MOS",
+		"text": "Geo-point as an object",
+		"Latitude": 55.48,
+		"Longitude": 37.32
+	},
+	{
+		"Name": "YSS",
+		"text": "Geo-point as an object",
+		"Latitude": 46.95,
+		"Longitude": 142.72
+	},
+	{
+		"Name": "HIS",
+		"text": "Geo-point as an object",
+		"Latitude": 80.62,
+		"Longitude": 58.05
+	},
+	{
+		"Name": "ZGN",
+		"text": "Geo-point as an object",
+		"Latitude": 66.75,
+		"Longitude": 123.26
+	},
+	{
+		"Name": "YAK",
+		"text": "Geo-point as an object",
+		"Latitude": 60.02,
+		"Longitude": 129.72
+	},
+	{
+		"Name": "PPI",
+		"text": "Geo-point as an object",
+		"Latitude": 42.98,
+		"Longitude": 131.73
+	},
+	{
+		"Name": "BJI",
+		"text": "Geo-point as an object",
+		"Latitude": 40.06,
+		"Longitude": 116.18
+	},
+	{
+		"Name": "BOX",
+		"text": "Geo-point as an object",
+		"Latitude": 58.03,
+		"Longitude": 38.97
+	},
+	{
+		"Name": "MUT",
+		"text": "Geo-point as an object",
+		"Latitude": 14.37,
+		"Longitude": 121.02
+	},
+	{
+		"Name": "PTN",
+		"text": "Geo-point as an object",
+		"Latitude": -0.05,
+		"Longitude": 109.25
+	},
+	{
+		"Name": "WTK",
+		"text": "Geo-point as an object",
+		"Latitude": -7.56,
+		"Longitude": 112.63
+	},
+	{
+		"Name": "LRM",
+		"text": "Geo-point as an object",
+		"Latitude": -21,
+		"Longitude": 115
+	},
+	{
+		"Name": "KAT",
+		"text": "Geo-point as an object",
+		"Latitude": -33.68,
+		"Longitude": 117.62
+	},
+	{
+		"Name": "KTN",
+		"text": "Geo-point as an object",
+		"Latitude": 75.94,
+		"Longitude": 137.71
+	},
+	{
+		"Name": "CHD",
+		"text": "Geo-point as an object",
+		"Latitude": 70.62,
+		"Longitude": 147.89
+	},
+	{
+		"Name": "ZYK",
+		"text": "Geo-point as an object",
+		"Latitude": 65.75,
+		"Longitude": 150.78
+	},
+	{
+		"Name": "MGD",
+		"text": "Geo-point as an object",
+		"Latitude": 59.97,
+		"Longitude": 150.86
+	},
+	{
+		"Name": "MSR",
+		"text": "Geo-point as an object",
+		"Latitude": 44.37,
+		"Longitude": 142.27
+	},
+	{
+		"Name": "ONW",
+		"text": "Geo-point as an object",
+		"Latitude": 38.43,
+		"Longitude": 141.47
+	},
+	{
+		"Name": "KAG",
+		"text": "Geo-point as an object",
+		"Latitude": 31.48,
+		"Longitude": 130.72
+	},
+	{
+		"Name": "YMK",
+		"text": "Geo-point as an object",
+		"Latitude": 31.19,
+		"Longitude": 130.62
+	},
+	{
+		"Name": "CBI",
+		"text": "Geo-point as an object",
+		"Latitude": 27.15,
+		"Longitude": 142.3
+	},
+	{
+		"Name": "YAP",
+		"text": "Geo-point as an object",
+		"Latitude": 9.3,
+		"Longitude": 138.5
+	},
+	{
+		"Name": "KOR",
+		"text": "Geo-point as an object",
+		"Latitude": 7.33,
+		"Longitude": 134.5
+	},
+	{
+		"Name": "BIK",
+		"text": "Geo-point as an object",
+		"Latitude": -1.08,
+		"Longitude": 136.05
+	},
+	{
+		"Name": "WEW",
+		"text": "Geo-point as an object",
+		"Latitude": -3.55,
+		"Longitude": 143.62
+	},
+	{
+		"Name": "DRW",
+		"text": "Geo-point as an object",
+		"Latitude": -12.4,
+		"Longitude": 130.9
+	},
+	{
+		"Name": "WEP",
+		"text": "Geo-point as an object",
+		"Latitude": -12.68,
+		"Longitude": 141.88
+	},
+	{
+		"Name": "BSV",
+		"text": "Geo-point as an object",
+		"Latitude": -25.54,
+		"Longitude": 139.21
+	},
+	{
+		"Name": "DAL",
+		"text": "Geo-point as an object",
+		"Latitude": -27.18,
+		"Longitude": 151.2
+	},
+	{
+		"Name": "ADL",
+		"text": "Geo-point as an object",
+		"Latitude": -34.67,
+		"Longitude": 138.65
+	},
+	{
+		"Name": "CPS",
+		"text": "Geo-point as an object",
+		"Latitude": 68.88,
+		"Longitude": -179.45
+	},
+	{
+		"Name": "EWA",
+		"text": "Geo-point as an object",
+		"Latitude": 21.32,
+		"Longitude": -158
+	},
+	{
+		"Name": "ASA",
+		"text": "Geo-point as an object",
+		"Latitude": -14.28,
+		"Longitude": 170.7
+	},
+	{
+		"Name": "MCQ",
+		"text": "Geo-point as an object",
+		"Latitude": -54.5,
+		"Longitude": 158.95
+	},
+	{
+		"Name": "CKA",
+		"text": "Geo-point as an object",
+		"Latitude": 68.5,
+		"Longitude": 73.6
+	},
+	{
+		"Name": "AMD",
+		"text": "Geo-point as an object",
+		"Latitude": 69.5,
+		"Longitude": 61.4
+	},
+	{
+		"Name": "LOP",
+		"text": "Geo-point as an object",
+		"Latitude": 68.25,
+		"Longitude": 33.08
+	},
+	{
+		"Name": "MBC",
+		"text": "Geo-point as an object",
+		"Latitude": 76.32,
+		"Longitude": -119.36
+	},
+	{
+		"Name": "VIZ",
+		"text": "Geo-point as an object",
+		"Latitude": 79.48,
+		"Longitude": 76.98
+	},
+	{
+		"Name": "PBK",
+		"text": "Geo-point as an object",
+		"Latitude": 70.1,
+		"Longitude": 170.9
+	},
+	{
+		"Name": "PGC",
+		"text": "Geo-point as an object",
+		"Latitude": 66.1,
+		"Longitude": -65.8
+	},
+	{
+		"Name": "CY0",
+		"text": "Geo-point as an object",
+		"Latitude": 70.5,
+		"Longitude": -68.6
+	},
+	{
+		"Name": "CDC",
+		"text": "Geo-point as an object",
+		"Latitude": 64.2,
+		"Longitude": -76.6
+	},
+	{
+		"Name": "CHC",
+		"text": "Geo-point as an object",
+		"Latitude": 64.1,
+		"Longitude": -83.2
+	},
+	{
+		"Name": "GHC",
+		"text": "Geo-point as an object",
+		"Latitude": 68.6,
+		"Longitude": -95.9
+	},
+	{
+		"Name": "IGC",
+		"text": "Geo-point as an object",
+		"Latitude": 69.3,
+		"Longitude": -81.8
+	},
+	{
+		"Name": "PBC",
+		"text": "Geo-point as an object",
+		"Latitude": 68.5,
+		"Longitude": -89.7
+	},
+	{
+		"Name": "RPB",
+		"text": "Geo-point as an object",
+		"Latitude": 66.5,
+		"Longitude": -86.2
+	},
+	{
+		"Name": "NAN",
+		"text": "Geo-point as an object",
+		"Latitude": 56.4,
+		"Longitude": -61.7
+	},
+	{
+		"Name": "AIA",
+		"text": "Geo-point as an object",
+		"Latitude": -65.25,
+		"Longitude": -64.26
+	},
+	{
+		"Name": "ASC",
+		"text": "Geo-point as an object",
+		"Latitude": -7.95,
+		"Longitude": -14.38
+	},
+	{
+		"Name": "VOS",
+		"text": "Geo-point as an object",
+		"Latitude": -78.45,
+		"Longitude": 106.87
+	},
+	{
+		"Name": "CSY",
+		"text": "Geo-point as an object",
+		"Latitude": -66.28,
+		"Longitude": 110.53
+	},
+	{
+		"Name": "CTA",
+		"text": "Geo-point as an object",
+		"Latitude": -20.1,
+		"Longitude": 146.3
+	},
+	{
+		"Name": "DVS",
+		"text": "Geo-point as an object",
+		"Latitude": -68.58,
+		"Longitude": 77.97
+	},
+	{
+		"Name": "GLN",
+		"text": "Geo-point as an object",
+		"Latitude": 49.65,
+		"Longitude": -97.12
+	},
+	{
+		"Name": "HTY",
+		"text": "Geo-point as an object",
+		"Latitude": 33.12,
+		"Longitude": 139.8
+	},
+	{
+		"Name": "KDU",
+		"text": "Geo-point as an object",
+		"Latitude": -12.69,
+		"Longitude": 132.47
+	},
+	{
+		"Name": "KNY",
+		"text": "Geo-point as an object",
+		"Latitude": 31.42,
+		"Longitude": 130.88
+	},
+	{
+		"Name": "MAW",
+		"text": "Geo-point as an object",
+		"Latitude": -67.61,
+		"Longitude": 62.88
+	},
+	{
+		"Name": "MIR",
+		"text": "Geo-point as an object",
+		"Latitude": -66.55,
+		"Longitude": 93.02
+	},
+	{
+		"Name": "PST",
+		"text": "Geo-point as an object",
+		"Latitude": -51.7,
+		"Longitude": -57.89
+	},
+	{
+		"Name": "TSU",
+		"text": "Geo-point as an object",
+		"Latitude": -19.22,
+		"Longitude": 17.7
+	},
+	{
+		"Name": "HUA",
+		"text": "Geo-point as an object",
+		"Latitude": -12.05,
+		"Longitude": -75.33
+	},
+	{
+		"Name": "LIV",
+		"text": "Geo-point as an object",
+		"Latitude": -62.66,
+		"Longitude": -60.39
+	},
+	{
+		"Name": "TRW",
+		"text": "Geo-point as an object",
+		"Latitude": -43.25,
+		"Longitude": -65.32
+	},
+	{
+		"Name": "AQU",
+		"text": "Geo-point as an object",
+		"Latitude": 42.38,
+		"Longitude": 13.32
+	},
+	{
+		"Name": "MID",
+		"text": "Geo-point as an object",
+		"Latitude": 28.21,
+		"Longitude": -177.38
+	},
+	{
+		"Name": "LMM",
+		"text": "Geo-point as an object",
+		"Latitude": -25.92,
+		"Longitude": 40
+	},
+	{
+		"Name": "LZH",
+		"text": "Geo-point as an object",
+		"Latitude": 36.09,
+		"Longitude": 103.85
+	},
+	{
+		"Name": "QSB",
+		"text": "Geo-point as an object",
+		"Latitude": 33.87,
+		"Longitude": 35.64
+	},
+	{
+		"Name": "TND",
+		"text": "Geo-point as an object",
+		"Latitude": 1.29,
+		"Longitude": 124.95
+	},
+	{
+		"Name": "EBR",
+		"text": "Geo-point as an object",
+		"Latitude": 40.82,
+		"Longitude": 0.49
+	},
+	{
+		"Name": "TEO",
+		"text": "Geo-point as an object",
+		"Latitude": 19.75,
+		"Longitude": -99.18
+	},
+	{
+		"Name": "LEM",
+		"text": "Geo-point as an object",
+		"Latitude": -42.3,
+		"Longitude": 147.5
+	},
+	{
+		"Name": "RIK",
+		"text": "Geo-point as an object",
+		"Latitude": 43.48,
+		"Longitude": 143.76
+	},
+	{
+		"Name": "CLK",
+		"text": "Geo-point as an object",
+		"Latitude": 44.7,
+		"Longitude": -75
+	},
+	{
+		"Name": "APL",
+		"text": "Geo-point as an object",
+		"Latitude": 39.17,
+		"Longitude": -76.88
+	},
+	{
+		"Name": "DSO",
+		"text": "Geo-point as an object",
+		"Latitude": 36.25,
+		"Longitude": -81.4
+	},
+	{
+		"Name": "USC",
+		"text": "Geo-point as an object",
+		"Latitude": 33.34,
+		"Longitude": -81.46
+	},
+	{
+		"Name": "JAX",
+		"text": "Geo-point as an object",
+		"Latitude": 30.35,
+		"Longitude": -81.6
+	},
+	{
+		"Name": "FIT",
+		"text": "Geo-point as an object",
+		"Latitude": 28.07,
+		"Longitude": -80.95
+	},
+	{
+		"Name": "GTF",
+		"text": "Geo-point as an object",
+		"Latitude": 43.62,
+		"Longitude": -71.95
+	},
+	{
+		"Name": "MSH",
+		"text": "Geo-point as an object",
+		"Latitude": 42.6,
+		"Longitude": -71.48
+	},
+	{
+		"Name": "FAR",
+		"text": "Geo-point as an object",
+		"Latitude": 62.05,
+		"Longitude": -7.02
+	},
+	{
+		"Name": "BOR",
+		"text": "Geo-point as an object",
+		"Latitude": 58.03,
+		"Longitude": 38.33
+	},
+	{
+		"Name": "CRK",
+		"text": "Geo-point as an object",
+		"Latitude": 57.09,
+		"Longitude": -2.64
+	},
+	{
+		"Name": "GML",
+		"text": "Geo-point as an object",
+		"Latitude": 57.16,
+		"Longitude": -3.68
+	},
+	{
+		"Name": "HLL",
+		"text": "Geo-point as an object",
+		"Latitude": 63.77,
+		"Longitude": -20.56
+	},
+	{
+		"Name": "KVI",
+		"text": "Geo-point as an object",
+		"Latitude": 59.5,
+		"Longitude": 17.63
+	},
+	{
+		"Name": "LAN",
+		"text": "Geo-point as an object",
+		"Latitude": 54.01,
+		"Longitude": -2.77
+	},
+	{
+		"Name": "S01",
+		"text": "Geo-point as an object",
+		"Latitude": 64.37,
+		"Longitude": 13.36
+	},
+	{
+		"Name": "OUL",
+		"text": "Geo-point as an object",
+		"Latitude": 65.1,
+		"Longitude": 25.85
+	},
+	{
+		"Name": "YOR",
+		"text": "Geo-point as an object",
+		"Latitude": 53.95,
+		"Longitude": -1.05
+	},
+	{
+		"Name": "PUT",
+		"text": "Geo-point as an object",
+		"Latitude": -18.33,
+		"Longitude": -69.5
+	},
+	{
+		"Name": "ANT",
+		"text": "Geo-point as an object",
+		"Latitude": -23.39,
+		"Longitude": -70.24
+	},
+	{
+		"Name": "SER",
+		"text": "Geo-point as an object",
+		"Latitude": -30,
+		"Longitude": -71.13
+	},
+	{
+		"Name": "CER",
+		"text": "Geo-point as an object",
+		"Latitude": -33.45,
+		"Longitude": -70.6
+	},
+	{
+		"Name": "VLD",
+		"text": "Geo-point as an object",
+		"Latitude": -39.48,
+		"Longitude": -73.14
+	},
+	{
+		"Name": "OSO",
+		"text": "Geo-point as an object",
+		"Latitude": -40.34,
+		"Longitude": -73.09
+	},
+	{
+		"Name": "PNT",
+		"text": "Geo-point as an object",
+		"Latitude": -53.2,
+		"Longitude": -70.9
+	},
+	{
+		"Name": "ESC",
+		"text": "Geo-point as an object",
+		"Latitude": -62.18,
+		"Longitude": -58.92
+	},
+	{
+		"Name": "OHI",
+		"text": "Geo-point as an object",
+		"Latitude": -63.32,
+		"Longitude": -57.9
+	},
+	{
+		"Name": "PAC",
+		"text": "Geo-point as an object",
+		"Latitude": -40.34,
+		"Longitude": -70.09
+	},
+	{
+		"Name": "ENP",
+		"text": "Geo-point as an object",
+		"Latitude": -52.13,
+		"Longitude": -70.9
+	},
+	{
+		"Name": "FSJ",
+		"text": "Geo-point as an object",
+		"Latitude": 56.23,
+		"Longitude": -120.73
+	},
+	{
+		"Name": "EDM",
+		"text": "Geo-point as an object",
+		"Latitude": 53.3,
+		"Longitude": -113.3
+	},
+	{
+		"Name": "FVE",
+		"text": "Geo-point as an object",
+		"Latitude": 58.37,
+		"Longitude": -116.02
+	},
+	{
+		"Name": "LET",
+		"text": "Geo-point as an object",
+		"Latitude": 49.64,
+		"Longitude": -112.87
+	},
+	{
+		"Name": "RED",
+		"text": "Geo-point as an object",
+		"Latitude": 52.14,
+		"Longitude": -113.84
+	},
+	{
+		"Name": "ROT",
+		"text": "Geo-point as an object",
+		"Latitude": 51.07,
+		"Longitude": -114.13
+	},
+	{
+		"Name": "SAS",
+		"text": "Geo-point as an object",
+		"Latitude": 52.8,
+		"Longitude": -106.4
+	},
+	{
+		"Name": "VLO",
+		"text": "Geo-point as an object",
+		"Latitude": 48.19,
+		"Longitude": -77.76
+	},
+	{
+		"Name": "MCM",
+		"text": "Geo-point as an object",
+		"Latitude": -77.85,
+		"Longitude": 166.67
+	},
+	{
+		"Name": "SPA",
+		"text": "Geo-point as an object",
+		"Latitude": -90,
+		"Longitude": 0
+	},
+	{
+		"Name": "ELT",
+		"text": "Geo-point as an object",
+		"Latitude": 29.67,
+		"Longitude": 34.95
+	},
+	{
+		"Name": "GZH",
+		"text": "Geo-point as an object",
+		"Latitude": 23.09,
+		"Longitude": 113.34
+	},
+	{
+		"Name": "MLT",
+		"text": "Geo-point as an object",
+		"Latitude": 29.52,
+		"Longitude": 30.89
+	},
+	{
+		"Name": "PAL",
+		"text": "Geo-point as an object",
+		"Latitude": -64.77,
+		"Longitude": -64.05
+	},
+	{
+		"Name": "NOK",
+		"text": "Geo-point as an object",
+		"Latitude": 69.4,
+		"Longitude": 88.1
+	},
+	{
+		"Name": "HLM",
+		"text": "Geo-point as an object",
+		"Latitude": 61.24,
+		"Longitude": -149.87
+	},
+	{
+		"Name": "HOM",
+		"text": "Geo-point as an object",
+		"Latitude": 59.7,
+		"Longitude": -150.47
+	},
+	{
+		"Name": "TRP",
+		"text": "Geo-point as an object",
+		"Latitude": 62.67,
+		"Longitude": 150.24
+	},
+	{
+		"Name": "BGY",
+		"text": "Geo-point as an object",
+		"Latitude": 31.72,
+		"Longitude": 35.09
+	},
+	{
+		"Name": "ESA",
+		"text": "Geo-point as an object",
+		"Latitude": 39.24,
+		"Longitude": 141.36
+	},
+	{
+		"Name": "GCK",
+		"text": "Geo-point as an object",
+		"Latitude": 44.63,
+		"Longitude": 20.77
+	},
+	{
+		"Name": "KNZ",
+		"text": "Geo-point as an object",
+		"Latitude": 55.83,
+		"Longitude": 48.85
+	},
+	{
+		"Name": "MIZ",
+		"text": "Geo-point as an object",
+		"Latitude": 39.11,
+		"Longitude": 141.2
+	},
+	{
+		"Name": "SFS",
+		"text": "Geo-point as an object",
+		"Latitude": 36.67,
+		"Longitude": -5.94
+	},
+	{
+		"Name": "SHU",
+		"text": "Geo-point as an object",
+		"Latitude": 55.38,
+		"Longitude": -160.46
+	},
+	{
+		"Name": "BFO",
+		"text": "Geo-point as an object",
+		"Latitude": 48.33,
+		"Longitude": 8.33
+	},
+	{
+		"Name": "MSK",
+		"text": "Geo-point as an object",
+		"Latitude": 52.69,
+		"Longitude": 34.52
+	},
+	{
+		"Name": "B11",
+		"text": "Geo-point as an object",
+		"Latitude": -77.51,
+		"Longitude": -23.42
+	},
+	{
+		"Name": "B12",
+		"text": "Geo-point as an object",
+		"Latitude": -79.08,
+		"Longitude": -24.12
+	},
+	{
+		"Name": "B14",
+		"text": "Geo-point as an object",
+		"Latitude": -80.89,
+		"Longitude": -22.26
+	},
+	{
+		"Name": "B15",
+		"text": "Geo-point as an object",
+		"Latitude": -81.49,
+		"Longitude": 2.97
+	},
+	{
+		"Name": "B17",
+		"text": "Geo-point as an object",
+		"Latitude": -82.9,
+		"Longitude": -12.24
+	},
+	{
+		"Name": "B18",
+		"text": "Geo-point as an object",
+		"Latitude": -84.35,
+		"Longitude": -23.86
+	},
+	{
+		"Name": "B19",
+		"text": "Geo-point as an object",
+		"Latitude": -85.36,
+		"Longitude": 2.06
+	},
+	{
+		"Name": "B20",
+		"text": "Geo-point as an object",
+		"Latitude": -85.36,
+		"Longitude": 95.98
+	},
+	{
+		"Name": "B21",
+		"text": "Geo-point as an object",
+		"Latitude": -87,
+		"Longitude": 28.41
+	},
+	{
+		"Name": "B22",
+		"text": "Geo-point as an object",
+		"Latitude": -86.51,
+		"Longitude": 68.17
+	},
+	{
+		"Name": "B23",
+		"text": "Geo-point as an object",
+		"Latitude": -88.03,
+		"Longitude": -43.87
+	},
+	{
+		"Name": "B03",
+		"text": "Geo-point as an object",
+		"Latitude": -67.57,
+		"Longitude": -68.12
+	},
+	{
+		"Name": "M01",
+		"text": "Geo-point as an object",
+		"Latitude": 46.87,
+		"Longitude": -96.45
+	},
+	{
+		"Name": "M02",
+		"text": "Geo-point as an object",
+		"Latitude": 45.56,
+		"Longitude": -93.25
+	},
+	{
+		"Name": "M03",
+		"text": "Geo-point as an object",
+		"Latitude": 43.6,
+		"Longitude": -95.6
+	},
+	{
+		"Name": "M04",
+		"text": "Geo-point as an object",
+		"Latitude": 41.36,
+		"Longitude": -96.16
+	},
+	{
+		"Name": "M05",
+		"text": "Geo-point as an object",
+		"Latitude": 38.5,
+		"Longitude": -96.3
+	},
+	{
+		"Name": "M06",
+		"text": "Geo-point as an object",
+		"Latitude": 35,
+		"Longitude": -97.4
+	},
+	{
+		"Name": "M07",
+		"text": "Geo-point as an object",
+		"Latitude": 32.98,
+		"Longitude": -96.75
+	},
+	{
+		"Name": "M08",
+		"text": "Geo-point as an object",
+		"Latitude": 29.44,
+		"Longitude": -98.61
+	},
+	{
+		"Name": "M09",
+		"text": "Geo-point as an object",
+		"Latitude": 26.4,
+		"Longitude": -97.8
+	},
+	{
+		"Name": "M10",
+		"text": "Geo-point as an object",
+		"Latitude": 24.8,
+		"Longitude": -99.6
+	},
+	{
+		"Name": "M11",
+		"text": "Geo-point as an object",
+		"Latitude": 20.7,
+		"Longitude": -103.1
+	},
+	{
+		"Name": "B01",
+		"text": "Geo-point as an object",
+		"Latitude": -64.82,
+		"Longitude": -63.48
+	},
+	{
+		"Name": "B02",
+		"text": "Geo-point as an object",
+		"Latitude": -66.03,
+		"Longitude": -66
+	},
+	{
+		"Name": "B04",
+		"text": "Geo-point as an object",
+		"Latitude": -68.58,
+		"Longitude": 41.08
+	},
+	{
+		"Name": "B05",
+		"text": "Geo-point as an object",
+		"Latitude": -69.29,
+		"Longitude": 41.32
+	},
+	{
+		"Name": "B06",
+		"text": "Geo-point as an object",
+		"Latitude": -69.67,
+		"Longitude": 39.4
+	},
+	{
+		"Name": "B07",
+		"text": "Geo-point as an object",
+		"Latitude": -70.7,
+		"Longitude": 44.28
+	},
+	{
+		"Name": "B08",
+		"text": "Geo-point as an object",
+		"Latitude": -72.77,
+		"Longitude": 159.03
+	},
+	{
+		"Name": "B09",
+		"text": "Geo-point as an object",
+		"Latitude": -74.01,
+		"Longitude": 42.99
+	},
+	{
+		"Name": "B10",
+		"text": "Geo-point as an object",
+		"Latitude": -77.32,
+		"Longitude": 39.71
+	},
+	{
+		"Name": "B24",
+		"text": "Geo-point as an object",
+		"Latitude": -71.67,
+		"Longitude": 77.77
+	},
+	{
+		"Name": "B13",
+		"text": "Geo-point as an object",
+		"Latitude": -80,
+		"Longitude": 77
+	},
+	{
+		"Name": "B16",
+		"text": "Geo-point as an object",
+		"Latitude": -82.78,
+		"Longitude": -12.94
+	},
+	{
+		"Name": "B27",
+		"text": "Geo-point as an object",
+		"Latitude": -81,
+		"Longitude": 3
+	},
+	{
+		"Name": "KTB",
+		"text": "Geo-point as an object",
+		"Latitude": -0.2,
+		"Longitude": 100.32
+	},
+	{
+		"Name": "JCO",
+		"text": "Geo-point as an object",
+		"Latitude": 70.36,
+		"Longitude": -148.8
+	},
+	{
+		"Name": "SBL",
+		"text": "Geo-point as an object",
+		"Latitude": 43.93,
+		"Longitude": -60.01
+	},
+	{
+		"Name": "C02",
+		"text": "Geo-point as an object",
+		"Latitude": 57.71,
+		"Longitude": -94.21
+	},
+	{
+		"Name": "C13",
+		"text": "Geo-point as an object",
+		"Latitude": 51.88,
+		"Longitude": -120.03
+	},
+	{
+		"Name": "T03",
+		"text": "Geo-point as an object",
+		"Latitude": 50.37,
+		"Longitude": -112.98
+	},
+	{
+		"Name": "C03",
+		"text": "Geo-point as an object",
+		"Latitude": 58.77,
+		"Longitude": -111.11
+	},
+	{
+		"Name": "C04",
+		"text": "Geo-point as an object",
+		"Latitude": 50.06,
+		"Longitude": -108.26
+	},
+	{
+		"Name": "C05",
+		"text": "Geo-point as an object",
+		"Latitude": 52.03,
+		"Longitude": -95.46
+	},
+	{
+		"Name": "C06",
+		"text": "Geo-point as an object",
+		"Latitude": 53.35,
+		"Longitude": -112.97
+	},
+	{
+		"Name": "C07",
+		"text": "Geo-point as an object",
+		"Latitude": 65.26,
+		"Longitude": -126.69
+	},
+	{
+		"Name": "C10",
+		"text": "Geo-point as an object",
+		"Latitude": 47.66,
+		"Longitude": -114.21
+	},
+	{
+		"Name": "C08",
+		"text": "Geo-point as an object",
+		"Latitude": 45.87,
+		"Longitude": -95.08
+	},
+	{
+		"Name": "C09",
+		"text": "Geo-point as an object",
+		"Latitude": 54.93,
+		"Longitude": -95.29
+	},
+	{
+		"Name": "C11",
+		"text": "Geo-point as an object",
+		"Latitude": 48.03,
+		"Longitude": -96.36
+	},
+	{
+		"Name": "C12",
+		"text": "Geo-point as an object",
+		"Latitude": 49.69,
+		"Longitude": -103.8
+	},
+	{
+		"Name": "C01",
+		"text": "Geo-point as an object",
+		"Latitude": 42.42,
+		"Longitude": -83.9
+	},
+	{
+		"Name": "T15",
+		"text": "Geo-point as an object",
+		"Latitude": 46.24,
+		"Longitude": -84.34
+	},
+	{
+		"Name": "T16",
+		"text": "Geo-point as an object",
+		"Latitude": 39.19,
+		"Longitude": -119.8
+	},
+	{
+		"Name": "T17",
+		"text": "Geo-point as an object",
+		"Latitude": 44.95,
+		"Longitude": -72.13
+	},
+	{
+		"Name": "T18",
+		"text": "Geo-point as an object",
+		"Latitude": 46.09,
+		"Longitude": -100.68
+	},
+	{
+		"Name": "T19",
+		"text": "Geo-point as an object",
+		"Latitude": 47.61,
+		"Longitude": -114.67
+	},
+	{
+		"Name": "T20",
+		"text": "Geo-point as an object",
+		"Latitude": 40.18,
+		"Longitude": -78.38
+	},
+	{
+		"Name": "T21",
+		"text": "Geo-point as an object",
+		"Latitude": 43.08,
+		"Longitude": -102.59
+	},
+	{
+		"Name": "T22",
+		"text": "Geo-point as an object",
+		"Latitude": 56.83,
+		"Longitude": -133.16
+	},
+	{
+		"Name": "T23",
+		"text": "Geo-point as an object",
+		"Latitude": 43.66,
+		"Longitude": -85.14
+	},
+	{
+		"Name": "T24",
+		"text": "Geo-point as an object",
+		"Latitude": 44.78,
+		"Longitude": -88.6
+	},
+	{
+		"Name": "T25",
+		"text": "Geo-point as an object",
+		"Latitude": 45.14,
+		"Longitude": -118.93
+	},
+	{
+		"Name": "T26",
+		"text": "Geo-point as an object",
+		"Latitude": 34.2,
+		"Longitude": -117.85
+	},
+	{
+		"Name": "T27",
+		"text": "Geo-point as an object",
+		"Latitude": 34.38,
+		"Longitude": -117.68
+	},
+	{
+		"Name": "T28",
+		"text": "Geo-point as an object",
+		"Latitude": 53.3,
+		"Longitude": -60.5
+	},
+	{
+		"Name": "T29",
+		"text": "Geo-point as an object",
+		"Latitude": 58.3,
+		"Longitude": -68.2
+	},
+	{
+		"Name": "T30",
+		"text": "Geo-point as an object",
+		"Latitude": 49.8,
+		"Longitude": -74.4
+	},
+	{
+		"Name": "T31",
+		"text": "Geo-point as an object",
+		"Latitude": 56.5,
+		"Longitude": -79.2
+	},
+	{
+		"Name": "T32",
+		"text": "Geo-point as an object",
+		"Latitude": 49.4,
+		"Longitude": -82.3
+	},
+	{
+		"Name": "T33",
+		"text": "Geo-point as an object",
+		"Latitude": 54,
+		"Longitude": -100.9
+	},
+	{
+		"Name": "T34",
+		"text": "Geo-point as an object",
+		"Latitude": 64.7,
+		"Longitude": -110.7
+	},
+	{
+		"Name": "T35",
+		"text": "Geo-point as an object",
+		"Latitude": 63.6,
+		"Longitude": -110.9
+	},
+	{
+		"Name": "T36",
+		"text": "Geo-point as an object",
+		"Latitude": 54.71,
+		"Longitude": -113.31
+	},
+	{
+		"Name": "T37",
+		"text": "Geo-point as an object",
+		"Latitude": 53.8,
+		"Longitude": -122.8
+	},
+	{
+		"Name": "T38",
+		"text": "Geo-point as an object",
+		"Latitude": 61,
+		"Longitude": -135.2
+	},
+	{
+		"Name": "T39",
+		"text": "Geo-point as an object",
+		"Latitude": 62.3,
+		"Longitude": -150.2
+	},
+	{
+		"Name": "T40",
+		"text": "Geo-point as an object",
+		"Latitude": 63,
+		"Longitude": -155.6
+	},
+	{
+		"Name": "T41",
+		"text": "Geo-point as an object",
+		"Latitude": 67,
+		"Longitude": -160.4
+	},
+	{
+		"Name": "T42",
+		"text": "Geo-point as an object",
+		"Latitude": 55.15,
+		"Longitude": -105.4
+	},
+	{
+		"Name": "T43",
+		"text": "Geo-point as an object",
+		"Latitude": 50.9,
+		"Longitude": -114.3
+	},
+	{
+		"Name": "IZN",
+		"text": "Geo-point as an object",
+		"Latitude": 40.5,
+		"Longitude": 29.73
+	},
+	{
+		"Name": "PAG",
+		"text": "Geo-point as an object",
+		"Latitude": 47.49,
+		"Longitude": 24.18
+	},
+	{
+		"Name": "HOR",
+		"text": "Geo-point as an object",
+		"Latitude": 77,
+		"Longitude": 15.6
+	},
+	{
+		"Name": "SAH",
+		"text": "Geo-point as an object",
+		"Latitude": 71.98,
+		"Longitude": -125.23
+	},
+	{
+		"Name": "E01",
+		"text": "Geo-point as an object",
+		"Latitude": 41.35,
+		"Longitude": 23.86
+	},
+	{
+		"Name": "E02",
+		"text": "Geo-point as an object",
+		"Latitude": 39.45,
+		"Longitude": 21.97
+	},
+	{
+		"Name": "E03",
+		"text": "Geo-point as an object",
+		"Latitude": 38.63,
+		"Longitude": 24.1
+	},
+	{
+		"Name": "E04",
+		"text": "Geo-point as an object",
+		"Latitude": 38.08,
+		"Longitude": 23.93
+	},
+	{
+		"Name": "E05",
+		"text": "Geo-point as an object",
+		"Latitude": 36.72,
+		"Longitude": 22.95
+	},
+	{
+		"Name": "BRD",
+		"text": "Geo-point as an object",
+		"Latitude": 49.87,
+		"Longitude": -99.97
+	},
+	{
+		"Name": "EUA",
+		"text": "Geo-point as an object",
+		"Latitude": 80,
+		"Longitude": -85.9
+	},
+	{
+		"Name": "ARS",
+		"text": "Geo-point as an object",
+		"Latitude": 56.43,
+		"Longitude": 58.57
+	},
+	{
+		"Name": "CKI",
+		"text": "Geo-point as an object",
+		"Latitude": -12.19,
+		"Longitude": 96.84
+	},
+	{
+		"Name": "CNH",
+		"text": "Geo-point as an object",
+		"Latitude": 44.08,
+		"Longitude": 124.86
+	},
+	{
+		"Name": "CYG",
+		"text": "Geo-point as an object",
+		"Latitude": 36.37,
+		"Longitude": 126.85
+	},
+	{
+		"Name": "DLT",
+		"text": "Geo-point as an object",
+		"Latitude": 11.94,
+		"Longitude": 108.48
+	},
+	{
+		"Name": "DUR",
+		"text": "Geo-point as an object",
+		"Latitude": 41.39,
+		"Longitude": 14.28
+	},
+	{
+		"Name": "GAN",
+		"text": "Geo-point as an object",
+		"Latitude": 0.69,
+		"Longitude": 73.15
+	},
+	{
+		"Name": "JAI",
+		"text": "Geo-point as an object",
+		"Latitude": 26.92,
+		"Longitude": 75.8
+	},
+	{
+		"Name": "KHB",
+		"text": "Geo-point as an object",
+		"Latitude": 47.61,
+		"Longitude": 134.69
+	},
+	{
+		"Name": "ORC",
+		"text": "Geo-point as an object",
+		"Latitude": -60.74,
+		"Longitude": -44.74
+	},
+	{
+		"Name": "PEG",
+		"text": "Geo-point as an object",
+		"Latitude": 38.1,
+		"Longitude": 23.9
+	},
+	{
+		"Name": "PET",
+		"text": "Geo-point as an object",
+		"Latitude": 52.97,
+		"Longitude": 158.25
+	},
+	{
+		"Name": "PIL",
+		"text": "Geo-point as an object",
+		"Latitude": -31.4,
+		"Longitude": -65.53
+	},
+	{
+		"Name": "WMQ",
+		"text": "Geo-point as an object",
+		"Latitude": 43.81,
+		"Longitude": 87.71
+	},
+	{
+		"Name": "PG1",
+		"text": "Geo-point as an object",
+		"Latitude": -85.5,
+		"Longitude": 77.2
+	},
+	{
+		"Name": "PG2",
+		"text": "Geo-point as an object",
+		"Latitude": -84.42,
+		"Longitude": 57.96
+	},
+	{
+		"Name": "PG3",
+		"text": "Geo-point as an object",
+		"Latitude": -84.42,
+		"Longitude": 37.62
+	},
+	{
+		"Name": "PG4",
+		"text": "Geo-point as an object",
+		"Latitude": -83.34,
+		"Longitude": 12.2
+	},
+	{
+		"Name": "GNG",
+		"text": "Geo-point as an object",
+		"Latitude": -31.36,
+		"Longitude": 115.71
+	},
+	{
+		"Name": "BRZ",
+		"text": "Geo-point as an object",
+		"Latitude": 56.21,
+		"Longitude": 24.75
+	},
+	{
+		"Name": "SUW",
+		"text": "Geo-point as an object",
+		"Latitude": 54.01,
+		"Longitude": 23.18
+	},
+	{
+		"Name": "SZC",
+		"text": "Geo-point as an object",
+		"Latitude": 52.91,
+		"Longitude": 19.61
+	},
+	{
+		"Name": "ZAG",
+		"text": "Geo-point as an object",
+		"Latitude": 50.28,
+		"Longitude": 20.58
+	},
+	{
+		"Name": "VYH",
+		"text": "Geo-point as an object",
+		"Latitude": 48.49,
+		"Longitude": 18.84
+	},
+	{
+		"Name": "WIC",
+		"text": "Geo-point as an object",
+		"Latitude": 47.55,
+		"Longitude": 15.52
+	},
+	{
+		"Name": "CST",
+		"text": "Geo-point as an object",
+		"Latitude": 46.05,
+		"Longitude": 11.65
+	},
+	{
+		"Name": "P01",
+		"text": "Geo-point as an object",
+		"Latitude": 45.41,
+		"Longitude": 16.66
+	},
+	{
+		"Name": "RNC",
+		"text": "Geo-point as an object",
+		"Latitude": 43.97,
+		"Longitude": 12.08
+	},
+	{
+		"Name": "SUT",
+		"text": "Geo-point as an object",
+		"Latitude": -32.4,
+		"Longitude": 20.67
+	},
+	{
+		"Name": "A01",
+		"text": "Geo-point as an object",
+		"Latitude": 8.99,
+		"Longitude": 7.39
+	},
+	{
+		"Name": "A02",
+		"text": "Geo-point as an object",
+		"Latitude": 36.85,
+		"Longitude": 2.93
+	},
+	{
+		"Name": "A03",
+		"text": "Geo-point as an object",
+		"Latitude": 3.87,
+		"Longitude": 11.52
+	},
+	{
+		"Name": "A04",
+		"text": "Geo-point as an object",
+		"Latitude": 14.28,
+		"Longitude": 39.46
+	},
+	{
+		"Name": "A05",
+		"text": "Geo-point as an object",
+		"Latitude": -19.2,
+		"Longitude": 17.58
+	},
+	{
+		"Name": "A06",
+		"text": "Geo-point as an object",
+		"Latitude": 5.33,
+		"Longitude": -4.13
+	},
+	{
+		"Name": "A07",
+		"text": "Geo-point as an object",
+		"Latitude": 9.58,
+		"Longitude": -13.66
+	},
+	{
+		"Name": "A08",
+		"text": "Geo-point as an object",
+		"Latitude": 7,
+		"Longitude": 125.4
+	},
+	{
+		"Name": "A09",
+		"text": "Geo-point as an object",
+		"Latitude": 14.58,
+		"Longitude": 120
+	},
+	{
+		"Name": "A10",
+		"text": "Geo-point as an object",
+		"Latitude": -9.4,
+		"Longitude": -40.5
+	},
+	{
+		"Name": "A11",
+		"text": "Geo-point as an object",
+		"Latitude": -1.45,
+		"Longitude": -48.45
+	},
+	{
+		"Name": "A12",
+		"text": "Geo-point as an object",
+		"Latitude": 14.08,
+		"Longitude": 100.61
+	},
+	{
+		"Name": "A13",
+		"text": "Geo-point as an object",
+		"Latitude": 7.89,
+		"Longitude": 98.35
+	},
+	{
+		"Name": "GRK",
+		"text": "Geo-point as an object",
+		"Latitude": 60.27,
+		"Longitude": 29.38
+	},
+	{
+		"Name": "BBG",
+		"text": "Geo-point as an object",
+		"Latitude": 78.07,
+		"Longitude": 14.23
+	},
+	{
+		"Name": "PRG",
+		"text": "Geo-point as an object",
+		"Latitude": -69.23,
+		"Longitude": 76.23
+	},
+	{
+		"Name": "NVL",
+		"text": "Geo-point as an object",
+		"Latitude": -70.78,
+		"Longitude": 11.83
+	},
+	{
+		"Name": "WHS",
+		"text": "Geo-point as an object",
+		"Latitude": 49.8,
+		"Longitude": -95.25
+	},
+	{
+		"Name": "T44",
+		"text": "Geo-point as an object",
+		"Latitude": 58.47,
+		"Longitude": -78.05
+	},
+	{
+		"Name": "T45",
+		"text": "Geo-point as an object",
+		"Latitude": 55.28,
+		"Longitude": -77.76
+	},
+	{
+		"Name": "T46",
+		"text": "Geo-point as an object",
+		"Latitude": 60.05,
+		"Longitude": -77.29
+	},
+	{
+		"Name": "T47",
+		"text": "Geo-point as an object",
+		"Latitude": 62.2,
+		"Longitude": -75.65
+	},
+	{
+		"Name": "T48",
+		"text": "Geo-point as an object",
+		"Latitude": 54.8,
+		"Longitude": -66.81
+	},
+	{
+		"Name": "T49",
+		"text": "Geo-point as an object",
+		"Latitude": 50.22,
+		"Longitude": -66.27
+	},
+	{
+		"Name": "T50",
+		"text": "Geo-point as an object",
+		"Latitude": 48.65,
+		"Longitude": -72.45
+	},
+	{
+		"Name": "T51",
+		"text": "Geo-point as an object",
+		"Latitude": 48.05,
+		"Longitude": -77.78
+	},
+	{
+		"Name": "T52",
+		"text": "Geo-point as an object",
+		"Latitude": 53.79,
+		"Longitude": -77.62
+	},
+	{
+		"Name": "T53",
+		"text": "Geo-point as an object",
+		"Latitude": 60.82,
+		"Longitude": -78.15
+	},
+	{
+		"Name": "VNA",
+		"text": "Geo-point as an object",
+		"Latitude": -70.7,
+		"Longitude": -8.3
+	},
+	{
+		"Name": "CUL",
+		"text": "Geo-point as an object",
+		"Latitude": -30.28,
+		"Longitude": 149.58
+	},
+	{
+		"Name": "HOB",
+		"text": "Geo-point as an object",
+		"Latitude": -42.88,
+		"Longitude": 147.35
+	},
+	{
+		"Name": "TWN",
+		"text": "Geo-point as an object",
+		"Latitude": -19.27,
+		"Longitude": 146.82
+	},
+	{
+		"Name": "AMA",
+		"text": "Geo-point as an object",
+		"Latitude": 28.17,
+		"Longitude": 129.33
+	},
+	{
+		"Name": "ANC",
+		"text": "Geo-point as an object",
+		"Latitude": -11.77,
+		"Longitude": -77.15
+	},
+	{
+		"Name": "ASB",
+		"text": "Geo-point as an object",
+		"Latitude": 43.46,
+		"Longitude": 142.17
+	},
+	{
+		"Name": "ASW",
+		"text": "Geo-point as an object",
+		"Latitude": 23.5,
+		"Longitude": 32.51
+	},
+	{
+		"Name": "BCL",
+		"text": "Geo-point as an object",
+		"Latitude": 9.3,
+		"Longitude": 105.71
+	},
+	{
+		"Name": "BKL",
+		"text": "Geo-point as an object",
+		"Latitude": -3.86,
+		"Longitude": 102.31
+	},
+	{
+		"Name": "CDO",
+		"text": "Geo-point as an object",
+		"Latitude": 8.4,
+		"Longitude": 124.63
+	},
+	{
+		"Name": "CEB",
+		"text": "Geo-point as an object",
+		"Latitude": 10.36,
+		"Longitude": 123.91
+	},
+	{
+		"Name": "CKT",
+		"text": "Geo-point as an object",
+		"Latitude": -15.48,
+		"Longitude": 145.25
+	},
+	{
+		"Name": "CMD",
+		"text": "Geo-point as an object",
+		"Latitude": -34.06,
+		"Longitude": 150.67
+	},
+	{
+		"Name": "DES",
+		"text": "Geo-point as an object",
+		"Latitude": -6.46,
+		"Longitude": 39.12
+	},
+	{
+		"Name": "DRB",
+		"text": "Geo-point as an object",
+		"Latitude": -29.48,
+		"Longitude": 30.56
+	},
+	{
+		"Name": "EUS",
+		"text": "Geo-point as an object",
+		"Latitude": -3.88,
+		"Longitude": -38.43
+	},
+	{
+		"Name": "FYM",
+		"text": "Geo-point as an object",
+		"Latitude": 29.18,
+		"Longitude": 35.5
+	},
+	{
+		"Name": "GSI",
+		"text": "Geo-point as an object",
+		"Latitude": 1.18,
+		"Longitude": 97.34
+	},
+	{
+		"Name": "HLN",
+		"text": "Geo-point as an object",
+		"Latitude": 23.9,
+		"Longitude": 121.55
+	},
+	{
+		"Name": "HVD",
+		"text": "Geo-point as an object",
+		"Latitude": 48.01,
+		"Longitude": 91.67
+	},
+	{
+		"Name": "ICA",
+		"text": "Geo-point as an object",
+		"Latitude": -14.08,
+		"Longitude": -75.75
+	},
+	{
+		"Name": "ILR",
+		"text": "Geo-point as an object",
+		"Latitude": 8.5,
+		"Longitude": 4.68
+	},
+	{
+		"Name": "JRS",
+		"text": "Geo-point as an object",
+		"Latitude": 0,
+		"Longitude": -78.3
+	},
+	{
+		"Name": "JYP",
+		"text": "Geo-point as an object",
+		"Latitude": 2.51,
+		"Longitude": 140.7
+	},
+	{
+		"Name": "KPG",
+		"text": "Geo-point as an object",
+		"Latitude": -10.2,
+		"Longitude": 123.4
+	},
+	{
+		"Name": "KRT",
+		"text": "Geo-point as an object",
+		"Latitude": 33.37,
+		"Longitude": 13.02
+	},
+	{
+		"Name": "KUJ",
+		"text": "Geo-point as an object",
+		"Latitude": 33.06,
+		"Longitude": 131.23
+	},
+	{
+		"Name": "LAG",
+		"text": "Geo-point as an object",
+		"Latitude": 6.48,
+		"Longitude": 3.27
+	},
+	{
+		"Name": "LGZ",
+		"text": "Geo-point as an object",
+		"Latitude": 13.1,
+		"Longitude": 123.74
+	},
+	{
+		"Name": "LKW",
+		"text": "Geo-point as an object",
+		"Latitude": 6.3,
+		"Longitude": 99.78
+	},
+	{
+		"Name": "LSK",
+		"text": "Geo-point as an object",
+		"Latitude": -15.23,
+		"Longitude": 28.19
+	},
+	{
+		"Name": "LWA",
+		"text": "Geo-point as an object",
+		"Latitude": -5.02,
+		"Longitude": 104.06
+	},
+	{
+		"Name": "MLB",
+		"text": "Geo-point as an object",
+		"Latitude": -38.36,
+		"Longitude": 145.18
+	},
+	{
+		"Name": "MND",
+		"text": "Geo-point as an object",
+		"Latitude": 1.44,
+		"Longitude": 124.84
+	},
+	{
+		"Name": "NAB",
+		"text": "Geo-point as an object",
+		"Latitude": -1.16,
+		"Longitude": 36.48
+	},
+	{
+		"Name": "PRP",
+		"text": "Geo-point as an object",
+		"Latitude": -3.6,
+		"Longitude": 119.4
+	},
+	{
+		"Name": "PTK",
+		"text": "Geo-point as an object",
+		"Latitude": 52.94,
+		"Longitude": 158.25
+	},
+	{
+		"Name": "ROC",
+		"text": "Geo-point as an object",
+		"Latitude": -23.19,
+		"Longitude": 150.31
+	},
+	{
+		"Name": "SBH",
+		"text": "Geo-point as an object",
+		"Latitude": 6.02,
+		"Longitude": 116.07
+	},
+	{
+		"Name": "SCN",
+		"text": "Geo-point as an object",
+		"Latitude": -0.55,
+		"Longitude": 100.3
+	},
+	{
+		"Name": "TGG",
+		"text": "Geo-point as an object",
+		"Latitude": 17.66,
+		"Longitude": 121.76
+	},
+	{
+		"Name": "TIR",
+		"text": "Geo-point as an object",
+		"Latitude": 8.48,
+		"Longitude": 76.95
+	},
+	{
+		"Name": "WAD",
+		"text": "Geo-point as an object",
+		"Latitude": 51.9,
+		"Longitude": -103.9
+	},
+	{
+		"Name": "G01",
+		"text": "Geo-point as an object",
+		"Latitude": -29.72,
+		"Longitude": -53.72
+	},
+	{
+		"Name": "KLD",
+		"text": "Geo-point as an object",
+		"Latitude": 54.5,
+		"Longitude": 20.2
+	},
+	{
+		"Name": "T54",
+		"text": "Geo-point as an object",
+		"Latitude": 39.1,
+		"Longitude": -76.85
+	},
+	{
+		"Name": "T55",
+		"text": "Geo-point as an object",
+		"Latitude": 60.55,
+		"Longitude": -151.26
+	},
+	{
+		"Name": "T56",
+		"text": "Geo-point as an object",
+		"Latitude": 45.59,
+		"Longitude": -92.97
+	},
+	{
+		"Name": "T57",
+		"text": "Geo-point as an object",
+		"Latitude": 38.25,
+		"Longitude": -104.61
+	},
+	{
+		"Name": "T58",
+		"text": "Geo-point as an object",
+		"Latitude": 37.42,
+		"Longitude": -122.17
+	},
+	{
+		"Name": "BRN",
+		"text": "Geo-point as an object",
+		"Latitude": 47.8,
+		"Longitude": 132.41
+	},
+	{
+		"Name": "PG0",
+		"text": "Geo-point as an object",
+		"Latitude": -83.67,
+		"Longitude": 88.68
+	},
+	{
+		"Name": "PG5",
+		"text": "Geo-point as an object",
+		"Latitude": -81.96,
+		"Longitude": 5.71
+	},
+	{
+		"Name": "HRP",
+		"text": "Geo-point as an object",
+		"Latitude": 49.2,
+		"Longitude": -84.7
+	},
+	{
+		"Name": "LCL",
+		"text": "Geo-point as an object",
+		"Latitude": 51,
+		"Longitude": -107.1
+	},
+	{
+		"Name": "T59",
+		"text": "Geo-point as an object",
+		"Latitude": 57.79,
+		"Longitude": -152.4
+	},
+	{
+		"Name": "T60",
+		"text": "Geo-point as an object",
+		"Latitude": 66.63,
+		"Longitude": -149.6
+	},
+	{
+		"Name": "T61",
+		"text": "Geo-point as an object",
+		"Latitude": 37.88,
+		"Longitude": -75.44
+	},
+	{
+		"Name": "W01",
+		"text": "Geo-point as an object",
+		"Latitude": -41.55,
+		"Longitude": 147.21
+	},
+	{
+		"Name": "W02",
+		"text": "Geo-point as an object",
+		"Latitude": -29.03,
+		"Longitude": 167.97
+	},
+	{
+		"Name": "W03",
+		"text": "Geo-point as an object",
+		"Latitude": -2.7,
+		"Longitude": 141.3
+	}
+]
