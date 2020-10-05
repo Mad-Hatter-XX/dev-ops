@@ -1,0 +1,297 @@
+GET _search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+
+DELETE /hb23_index
+
+PUT omni_5min_index
+{
+"mappings": {
+    "properties": {
+      "epochs": {
+        "type": "date",
+        "format": "epoch_millis"
+      },
+      "imf_magnitude_avg_nt": {
+        "type": "float"
+      },
+      "Bx_GSE_GSM_nT": {
+        "type": "float"
+      },
+      "by_gse_nt": {
+        "type": "float"
+      },
+      "bz_gse_nt": {
+        "type": "float"
+      },
+      "by_gsm_nt": {
+        "type": "float"
+      },
+      "bz_gsm_nt": {
+        "type": "float"
+      },
+      "flow_speed_km_sec": {
+        "type": "float"
+      },
+      "vx_velocity_gse_km_s": {
+        "type": "float"
+      },
+      "vy_velocity_gse_km_s": {
+        "type": "float"
+      },
+      "vz_velocity_gse_km_s": {
+        "type": "float"
+      },
+      "proton_density_n_cc": {
+        "type": "float"
+      },
+      "flow_pressure_npa": {
+        "type": "float"
+      },
+      "Ey_Electric_Field_mV_m": {
+        "type": "float"
+      },
+      "plasma_beta": {
+        "type": "float"
+      },
+      "alfven_mach_number": {
+        "type": "float"
+      },
+      "magnetosonic_mach_number": {
+        "type": "float"
+      },
+      "ae_index_nt": {
+        "type": "float"
+      },
+      "au_index_nt": {
+        "type": "float"
+      },
+      "SYM_D_nT": {
+        "type": "float"
+      },
+      "SYM_H_nT": {
+        "type": "float"
+      },
+      "ASY_D_nT": {
+        "type": "float"
+      },
+      "ASY_H_nT": {
+        "type": "float"
+      },
+      "Polar_Cap_PC_index": {
+        "type": "float"
+      }
+    }
+  }
+}
+
+
+GET /omni_5min_index/_mapping
+
+
+PUT omni_1hr_index
+{
+"mappings": {
+    "properties": {
+        "epochs": {
+        "type": "date",
+        "format": "epoch_millis"
+        },
+        "imf_magnitude_avg_nt": {
+        "type": "float"
+        },
+        "magnitude_avg_imf_vr_nt": {
+        "type": "float"
+        },
+        "bx_gse_gsm_nT": {
+        "type": "float"
+        },
+        "by_gse_nt": {
+        "type": "float"
+        },
+        "bz_gse_nt": {
+        "type": "float"
+        },
+        "by_gsm_nt": {
+        "type": "float"
+        },
+        "bz_gsm_nt": {
+        "type": "float"
+        },
+        "proton_temperature_k": {
+        "type": "float"
+        },
+        "proton_density_cc": {
+        "type": "float"
+        },
+        "flow_speed_km_sec": {
+        "type": "float"
+        },
+        "Alpha_Proton_Density_Ratio": {
+        "type": "float"
+        },
+        "proton_density_n_cc": {
+        "type": "float"
+        },
+        "flow_pressure_npa": {
+        "type": "float"
+        },
+        "Ey_Electric_Field_mV_m": {
+        "type": "float"
+        },
+        "Plasma_Beta": {
+        "type": "float"
+        },
+        "alfven_mach_number": {
+        "type": "float"
+        },
+        "Magnetosonic_mach_number": {
+        "type": "float"
+        },
+        "R_sunspot_number": {
+        "type": "float"
+        },
+        "solar_index_f10_7": {
+        "type": "float"
+        },
+        "kp_10_index": {
+        "type": "float"
+        },
+        "dst_index_nt": {
+        "type": "float"
+        },
+        "ae_nt": {
+        "type": "float"
+        },
+        "ap_nt": {
+        "type": "float"
+        },
+        "AL_INDEX_nT": {
+        "type": "float"
+        },
+        "AU_INDEX_nT": {
+        "type": "float"
+        },
+        "Polar_Cap_PCN_index": {
+        "type": "float"
+        },
+        "Lyman_Alpha_Solar_Index_W_m_2": {
+        "type": "float"
+        },
+        "Proton_Quazy_Invariant_QI": {
+        "type": "float"
+      }
+    }
+  }
+}
+
+GET omni_1hr_index
+
+
+
+PUT chess_lat_long
+{
+"mappings": {
+    "properties": {
+        "geo": {
+        "type": "geo_point"
+        },
+        "state": {
+        "type": "text"
+        },
+        "name": {
+        "type": "text"
+        },
+        "authority": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+GET chess_lat_long
+
+PUT chess_super_mag
+{
+"mappings": {
+    "properties": {
+        "geo": {
+        "type": "geo_point"
+        },
+        "name": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+GET chess_super_mag
+
+PUT outage_data
+{
+"mappings": {
+    "properties": {
+        "epochs_up": {
+        "type": "date",
+        "format": "epoch_millis"
+        },
+        "geo": {
+        "type": "geo_point"
+        },
+        "epochs_up": {
+        "type": "date",
+        "format": "epoch_millis"
+        },
+        "outage_duration": {
+        "type": "long"
+        },
+        "number_of_customers_affected": {
+        "type": "text"
+        },
+        "city_town_reported": {
+        "type": "keyword"
+        },
+        "actual_city_town": {
+        "type": "keyword"
+        },
+        "street": {
+        "type": "text"
+        },
+        "country": {
+        "type": "keyword"
+        },
+        "company_name": {
+        "type": "keyword"
+        },
+        "voltage_levels": {
+        "type": "long"
+        },
+        "circuit_type": {
+        "type": "text"
+        },
+        "reason_for_outage": {
+        "type": "text"
+        },
+        "short_cause": {
+        "type": "text"
+        },
+        "failed_or_damanged_equipment": {
+        "type": "text"
+        },
+        "weather_condition_type": {
+        "type": "keyword"
+        },
+        "load_type": {
+        "type": "text"
+        },
+        "geo_id": {
+        "type": "long"
+      }
+    }
+  }
+}
+
+GET outage_data
