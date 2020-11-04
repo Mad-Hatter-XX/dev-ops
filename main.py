@@ -1,4 +1,11 @@
 from hbpostgres import param_dic, posgres_pull, postgres_insert
+import json
+
+#configuration file
+dirname = os.path.dirname(__file__)
+configuration_path = dirname + "\configuration.json"
+with open(configuration_path) as f:
+    configure = json.load(f)
 
 class main:
 
@@ -11,6 +18,7 @@ class main:
         self._from = """ from omni_1hr wind LIMIT 10000"""
         #combining the statements
         self._request = self._select + self._columns + self._from
+        self._request = 
 
         #send data to database the same way
         self._to_columns = '''"AE", "AL", "AU", "SYM_H"'''
