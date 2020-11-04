@@ -6,40 +6,9 @@ import time
 
 #what to pull out of database #25 min for rolling
 pull_GF = """select "Year", "Day", "Hour", "Minute", "Bx", "By", "Bz", "V", "n", "AE", "AL", "AU", "SYM_H" from wind LIMIT 100000"""
-#pull_GF = """select "Year", "Day", "Hour", "Minute", "Bx", "By", "Bz", "v", "n", "ae", "al", "au", "sym_h" from wind LIMIT 48"""
 #what to insert into the database ORDER BY timestamp DESC 
 insert_GF = """ INSERT INTO globalfc ("Year", "Day", "Hour", "Minute", "AE", "AL", "AU", "SYM_H", "timestamp") VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
-#wee need to work on syncing data that is rolling in. I will just make this do one pull then stop. because its a data fump
-# create_table1 = '''create table globalfc
-# (
-#     "Year"      integer,
-#     "Day"       integer,
-#     "Hour"      integer,
-#     "Minute"    integer,
-#     "AE"        float,
-#     "AL"        float,
-#     "AU"        float,
-#     "SYM_H"     float,
-#     "timestamp" integer
-# )'''
-    #created_at TIMESTAMP DEFAULT NOW()
-# create_table2 = '''create table wind
-# (
-#     "Year"      integer,
-#     "Day"       integer,
-#     "Hour"      integer,
-#     "Minute"    integer,
-#     "Bx"        NUMERIC (7,2),
-#     "By"        NUMERIC (7,2),
-#     "Bz"        NUMERIC (7,2),
-#     "V"         NUMERIC (7,2),
-#     "n"         NUMERIC (7,2),
-#     "AE"        integer,
-#     "AL"        integer,
-#     "AU"        integer,
-#     "SYM_H"     integer
-# )'''
-    #created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+
 #move this to a config file later
 param_dic = {
     "host"      : "postgres", 
