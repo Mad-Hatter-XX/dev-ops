@@ -2,13 +2,22 @@ import psycopg2
 import sys
 import io
 import time
+import json
+import os
 
+#file location
+dirname = os.path.dirname(__file__)
+configuration_path = dirname + "\postgres_configuration.json"
+#load configuration
+with open(configuration_path) as f:
+    configure = json.load(f)
 
 #what to pull out of database #25 min for rolling
 pull_GF = """select "Year", "Day", "Hour", "Minute", "Bx", "By", "Bz", "V", "n", "AE", "AL", "AU", "SYM_H" from wind LIMIT 100000"""
 #what to insert into the database ORDER BY timestamp DESC 
 insert_GF = """ INSERT INTO globalfc ("Year", "Day", "Hour", "Minute", "AE", "AL", "AU", "SYM_H", "timestamp") VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
 
+param_dic = configure
 #move this to a config file later
 param_dic = {
     "host"      : "postgres", 
