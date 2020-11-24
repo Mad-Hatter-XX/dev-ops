@@ -31,6 +31,7 @@ services:
       - ELASTICSEARCH_USERNAME=elastic
       - ELASTICSEARCH_PASSWORD=changeme
       - xpack.security.enabled=false
+      
     #volumes:
     #  - data01:/usr/share/elasticsearch/data
     restart: always
