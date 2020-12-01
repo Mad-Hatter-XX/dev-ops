@@ -57,12 +57,12 @@ When you've configure the secrets.env file you are ready to start the system. in
 # Accessing the user interfaces
 Accessing your systems is done by following the `localhost:####` locations listed in the docker compose file. Some of the locations are floating and need to be found by looking at the command line. type `sudo docker -ps` this will bring up the containers that are running and list.
 
-Kibana can be accessed by typeing localhost:5601 in your browser this one is hard coded.
-Nifi can be accessed by typeing localhost:#### this will be avliable on the list we created on the command line
-Postgres interface can be accessed with the aminer at localhost:8888
-Postgres direct can be accessed localhost:5240
-elasticsearch can be found at localhost:9200
-airflow can be found at localhost:####
+- Kibana can be accessed by typeing localhost:5601 in your browser this one is hard coded.
+- Nifi can be accessed by typeing localhost:#### this will be avliable on the list we created on the command line
+- Postgres interface can be accessed with the aminer at localhost:8888
+- Postgres direct can be accessed localhost:5240
+- elasticsearch can be found at localhost:9200
+- airflow can be found at localhost:####
 
 
 ### Streaming data
