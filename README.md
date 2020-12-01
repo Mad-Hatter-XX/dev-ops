@@ -22,6 +22,31 @@ First you need to install docker onto your system. The install instructions for 
 
 Once docker is installed you will need to be sure docker-compose is installed. Docker compose can be found here https://docs.docker.com/compose/install/ on the docker website.
 
+## special intructions for airflow docker container
+
+The airflow container is quite weird and can only be configured in house. 
+
+#### Docker:
+
+```FROM puckel/docker-airflow:latest
+USER root
+ARG DOCKER_GROUP_ID
+# Install Docker
+RUN pip install 'Docker==4.2.0'
+# Add permissions for running docker.sock
+RUN groupadd -g $DOCKER_GROUP_ID docker && gpasswd -a airflow docker
+USER airflow
+```
+
+Once this docker container is built you will need to launch it like so: *the period at the end of the statement needs to be included*
+
+``` 
+docker build --rm --build-arg DOCKER_GROUP_ID=`getent group docker | cut -d: -f3` -t docker-airflow .
+```
+Now that you've built the special docker container for the airflow system you are set to launch the docker-compose system. 
+
+When running the docker file you will need to turn the file such as this.
+
 # starting the enviorment
 As mentioned above the system is already designed and configured in order to start the system you need to find the docker-compose file in the current repo. 
 
@@ -29,13 +54,40 @@ once in the folder where the docker-compose file is located you will need to ope
 
 When you've configure the secrets.env file you are ready to start the system. in the folder where your docker-compose file is located type `sudo docker-compose up` if you are using a linux system. This will start the process of downloading the docker files and loading the system.
 
+# accessing the user interfaces
+Accessing your systems is done by following the `localhost:####` locations listed in the docker compose file. Some of the locations are floating and need to be found by looking at the command line. type `sudo docker -ps` this will bring up the containers that are running and list.
+
+Kibana can be accessed by typeing localhost:5601 in your browser this one is hard coded.
+Nifi can be accessed by typeing localhost:#### this will be avliable on the list we created on the command line
+Postgres interface can be accessed with the aminer at localhost:8888
+Postgres direct can be accessed localhost:5240
+elasticsearch can be found at localhost:9200
+airflow can be found at localhost:####
 
 
+### streaming data
+#### integrating your model with the system
+The system is designed to be configured throught the configuration.json file once a new machine learning mondel is introduced. This system will autofill any missing data backlog.
+
+configuring:
+to configure the system you dont need to know the SQL language but you have the ability to override statements if you do know the SQL script language. 
+open the configuration folder and then the configuration.json file.
+
+You will need to name your model then fill in the missing information for each variable. 
+`null` values will be skipped past in the SQL commands if you want to just fill in the full script youself. 
+
+#### scheduling 
+
+Airflow will need to be configured though the daq file.
+you can organize the file to call your models. In my case I have my files running inside of docker containers that are call to run then close once the process is complete. 
+
+#### Dashboard
+
+The dashboard should get its datafeed from nifi and elasticsearch. This feed should always running if you are streaming data. You will need to construct the kibana and elasticsearch indexes. You will need to look over the kibana recipes folder to understand how to feed in your variables properly.
+
+Visuals can be designed easily once you have the indexes set up. You just need to select the visuals tab and start creating them.
 
 
-
-
-When running the docker file you will need to turn the file such as this.
+Sources:
 
 https://stackoverflow.com/questions/61186983/airflow-dockeroperator-connect-sock-connectself-unix-socket-filenotfounderror
-docker build --rm --build-arg DOCKER_GROUP_ID=`getent group docker | cut -d: -f3` -t puckel-airflow-with-docker-inside .
