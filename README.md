@@ -17,12 +17,12 @@ In many cases these systems can be quite difficult to develop, but by utilizing 
 
 ## How to start the system
 
-# prerequisite
+### Prerequisite
 First you need to install docker onto your system. The install instructions for all systems can be found here https://docs.docker.com/compose/install/ on the docker website.
 
 Once docker is installed you will need to be sure docker-compose is installed. Docker compose can be found here https://docs.docker.com/compose/install/ on the docker website.
 
-## special intructions for airflow docker container
+## Special intructions for airflow docker container
 
 The airflow container is quite weird and can only be configured in house. 
 
@@ -47,14 +47,14 @@ Now that you've built the special docker container for the airflow system you ar
 
 When running the docker file you will need to turn the file such as this.
 
-# starting the enviorment
+# Starting the enviorment
 As mentioned above the system is already designed and configured in order to start the system you need to find the docker-compose file in the current repo. 
 
 once in the folder where the docker-compose file is located you will need to open the secrets.env file and make changes to passwords and file locations. This file will configure the docker-compose file so you do not need to make any changes to the docker-compose file directly. 
 
 When you've configure the secrets.env file you are ready to start the system. in the folder where your docker-compose file is located type `sudo docker-compose up` if you are using a linux system. This will start the process of downloading the docker files and loading the system.
 
-# accessing the user interfaces
+# Accessing the user interfaces
 Accessing your systems is done by following the `localhost:####` locations listed in the docker compose file. Some of the locations are floating and need to be found by looking at the command line. type `sudo docker -ps` this will bring up the containers that are running and list.
 
 Kibana can be accessed by typeing localhost:5601 in your browser this one is hard coded.
@@ -65,8 +65,8 @@ elasticsearch can be found at localhost:9200
 airflow can be found at localhost:####
 
 
-### streaming data
-#### integrating your model with the system
+### Streaming data
+#### Integrating your model with the system
 The system is designed to be configured throught the configuration.json file once a new machine learning mondel is introduced. This system will autofill any missing data backlog.
 
 configuring:
@@ -76,7 +76,7 @@ open the configuration folder and then the configuration.json file.
 You will need to name your model then fill in the missing information for each variable. 
 `null` values will be skipped past in the SQL commands if you want to just fill in the full script youself. 
 
-#### scheduling 
+#### Scheduling 
 
 Airflow will need to be configured though the daq file.
 you can organize the file to call your models. In my case I have my files running inside of docker containers that are call to run then close once the process is complete. 
