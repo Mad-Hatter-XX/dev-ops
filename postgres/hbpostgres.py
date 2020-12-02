@@ -7,7 +7,7 @@ import os
 
 #file location
 dirname = os.path.dirname(__file__)
-configuration_path = dirname + "\postgres_configuration.json"
+configuration_path = dirname + r"\postgres_configuration.json"
 #load configuration
 with open(configuration_path) as f:
     configure = json.load(f)

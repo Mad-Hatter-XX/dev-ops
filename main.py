@@ -7,7 +7,7 @@ from postgres.hbpostgres import param_dic, posgres_pull, postgres_insert
 
 #configuration file
 dirname = os.path.dirname(__file__)
-configuration_path = dirname + "\configuration.json"
+configuration_path = dirname + r"\configuration.json"
 with open(configuration_path) as f:
     configure = json.load(f)
 #https://docs.google.com/spreadsheets/d/1z8j3iDtHbODajGcrLqgEFGJD3gARnnfHCsqmFkc0HLM/edit#gid=0
@@ -67,7 +67,7 @@ class main(model_name=str):
 
     def check_date_and_update_config_file(self, model_name=str, last_date_pulled=str):
         dirname = os.path.dirname(__file__)
-        configuration_path = dirname + "\configuration.json"
+        configuration_path = dirname + r"\configuration.json"
         with open(configuration_path, "r") as jsonFile:
             configure = json.load(jsonFile)
 
@@ -81,6 +81,7 @@ class main(model_name=str):
         '''run system if date range and data is avaliable. Continue to run for each range of time is avaliable.
         Once the range is no longer avalaible stop self.model_name and save the last time used
         '''
+        time_variable = "epochs"
         #first check the date configuration file
         last_date_pulled = self.check_date()
         #Second find the most current date in omni table or source table
