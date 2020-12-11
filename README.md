@@ -105,6 +105,14 @@ The networking is important you dont want too many of your ports to be open as t
 
 Open ports should be limited to Kibana and Adminer. 
 
+
+### Accessing postgres public interface running on adminer
+
+server - postgres (or whatever you named your docker)
+user - user name (root)
+password - password (example)
+database - mydb (or whatever you name it)
+
 Sources:
 AWS: X:\heartbeat-AWS\dev-ops-dev-branch\dev-ops-dev\dev-ops-dev\dev_ops
 
