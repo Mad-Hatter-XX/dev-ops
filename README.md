@@ -87,6 +87,23 @@ The dashboard should get its datafeed from nifi and elasticsearch. This feed sho
 
 Visuals can be designed easily once you have the indexes set up. You just need to select the visuals tab and start creating them.
 
+## Configuring AWS
+
+AWS needs its own configuration we are using an EC2 instance 
+AWS:
+- Ubuntu Server 18.04 LTS (HVM), SSD Volume Type 
+- c5.2xlarge 
+- 8 vCPUs, 
+- 3.4 GHz
+- 16 GiB memory
+
+once configured you can pull the repository and run your docker-compose file.
+
+#### networking
+
+The networking is important you dont want too many of your ports to be open as they will expose you to potenial threats. 
+
+Open ports should be limited to Kibana and Adminer. 
 
 Sources:
 AWS: X:\heartbeat-AWS\dev-ops-dev-branch\dev-ops-dev\dev-ops-dev\dev_ops
