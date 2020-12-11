@@ -89,5 +89,6 @@ Visuals can be designed easily once you have the indexes set up. You just need t
 
 
 Sources:
+AWS: X:\heartbeat-AWS\dev-ops-dev-branch\dev-ops-dev\dev-ops-dev\dev_ops
 
 https://stackoverflow.com/questions/61186983/airflow-dockeroperator-connect-sock-connectself-unix-socket-filenotfounderror
