@@ -113,6 +113,28 @@ user - user name (root)
 password - password (example)
 database - mydb (or whatever you name it)
 
+
+### Configureing the config.json file
+    "gloabal_forcast": {
+        "start_date": "05/21/1968", \\ the start data of the tables data. 
+        "last_pull_date_time": "05/21/2020 13:00:00.0000", \\ auto fille needs to be 0/00/0000 as place holder
+        "last_pull_date_plus_one": "05/21/2020 13:00:00.0000", \\autofills keeps track off date. need to start with 0/00/0000 as place hodler
+        "predictions": "8hrs", \\ how far out the model will predict.
+        "data_needed": 500, \\amount of data needed to pull for model to run
+        "sql_table": "omni_1hr", \\source or main table to pull data from
+        "input_variables": ["*"],  \\in put variable from main source. this needs to be a list. if you type "*" with the quotes included you will get all the variables.
+        "output_variables": ["ae_nt","au_nt","al","symh","kp"],  \\List of variables
+        "OPTIONAL_join": "null",     \\second table to join
+        "OPTIONAL_join_where": "null", \\which variable to join on
+        "current_date": "10/29/2020 10:14:00.0000",  \\ this variable will fill itself
+        "postgres_script": "select 'epochs', 'AE', 'AL', 'AU', 'SYM_H' from omni_1hr_prediction", \\import data to model. whatever you would send to csv
+        "postgres_": "SELECT COUNT(1) FROM omni_1hr WHERE epoch ='date.current()",  \\ getting most recent data from postgres from main table you are pulling from
+        "postgres_date_exist": "SELECT COUNT(1) FROM Suppliers WHERE epochs = data[gloabal_forcast][last_pull_date_plus_one]", \\checking the last date pulled
+        "custom_sql_out_db": "null", \\override satement to pull data out of database---not in use
+        "custom_sql_into_db": "null", \\overrid statement to put data into the database
+        "send_to_sql_table": "null", \\send newly mented data from model to sql table
+        "check_date_in_sql_for_main_table": "SELECT MAX(epochs) FROM omni_1hr" \\checking data from main source to see if model can run again. 
+
 Sources:
 AWS: X:\heartbeat-AWS\dev-ops-dev-branch\dev-ops-dev\dev-ops-dev\dev_ops
 
