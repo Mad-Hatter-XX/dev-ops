@@ -128,11 +128,11 @@ database - mydb (or whatever you name it)
         "OPTIONAL_join_where": "null", \\which variable to join on
         "current_date": "10/29/2020 10:14:00.0000",  \\ this variable will fill itself
         "postgres_script": "select 'epochs', 'AE', 'AL', 'AU', 'SYM_H' from omni_1hr_prediction", \\import data to model. whatever you would send to csv
-        "postgres_": "SELECT COUNT(1) FROM omni_1hr WHERE epoch ='date.current()",  \\ getting most recent data from postgres from main table you are pulling from
+        "postgres_": "SELECT COUNT(1) FROM omni_1hr WHERE epoch ='date.current()",  \\ not used
         "postgres_date_exist": "SELECT COUNT(1) FROM Suppliers WHERE epochs = data[gloabal_forcast][last_pull_date_plus_one]", \\checking the last date pulled
         "custom_sql_out_db": "null", \\override satement to pull data out of database---not in use
         "custom_sql_into_db": "null", \\overrid statement to put data into the database
-        "send_to_sql_table": "null", \\send newly mented data from model to sql table
+        "send_to_sql_table": "null", \\send newly mented data from model to sql table if null system will move on to custom_sql_into_table (this is the full script override)
         "check_date_in_sql_for_main_table": "SELECT MAX(epochs) FROM omni_1hr" \\checking data from main source to see if model can run again. 
 
 Sources:
